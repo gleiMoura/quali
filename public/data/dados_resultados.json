@@ -1,0 +1,6030 @@
+{
+  "correlacoes": [
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.298691354482413,
+      "pearsonP": 1.7747367433155402e-143,
+      "spearmanR": 0.2768623354114481,
+      "spearmanP": 9.787318208317068e-123
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.2889203160973625,
+      "pearsonP": 5.787662394899841e-134,
+      "spearmanR": 0.27234429127110393,
+      "spearmanP": 1.1334476318711216e-118
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.2742222576608002,
+      "pearsonP": 2.369644372754606e-120,
+      "spearmanR": 0.25708909079769426,
+      "spearmanP": 1.616218804444855e-105
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.2062954290999035,
+      "pearsonP": 8.45248774178993e-68,
+      "spearmanR": 0.2003738183578475,
+      "spearmanP": 5.452805505729447e-64
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": 0.18706761808930775,
+      "pearsonP": 7.296910761282799e-56,
+      "spearmanR": 0.16405850964553587,
+      "spearmanP": 3.3254010955879918e-43
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.1868032792815206,
+      "pearsonP": 1.043621512847254e-55,
+      "spearmanR": -0.12953506834863907,
+      "spearmanP": 1.933837264877622e-27
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.1574379466265883,
+      "pearsonP": 6.954406872355364e-40,
+      "spearmanR": 0.13458586498294337,
+      "spearmanP": 1.6512423604960283e-29
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.14560761639110664,
+      "pearsonP": 2.645237169852541e-34,
+      "spearmanR": 0.14452682528310393,
+      "spearmanP": 8.125208564194615e-34
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.13821721826811564,
+      "pearsonP": 4.792989014922986e-31,
+      "spearmanR": 0.11445907787952232,
+      "spearmanP": 9.631790351989143e-22
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.1361178830789119,
+      "pearsonP": 3.753103636175237e-30,
+      "spearmanR": 0.1517213440558707,
+      "spearmanP": 3.935503316043919e-37
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.13428597699249611,
+      "pearsonP": 2.202355709246438e-29,
+      "spearmanR": 0.10277781573240717,
+      "spearmanP": 8.147972515252159e-18
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.124905000195025,
+      "pearsonP": 1.2941859814726868e-25,
+      "spearmanR": 0.128190013718631,
+      "spearmanP": 6.663702457096893e-27
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.1147424430578401,
+      "pearsonP": 7.64146225210443e-22,
+      "spearmanR": -0.24354704476056446,
+      "spearmanP": 1.463403598969574e-94
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": -0.08495195250894642,
+      "pearsonP": 1.2444485120724005e-12,
+      "spearmanR": -0.11295450371424637,
+      "spearmanP": 3.2606509921754667e-21
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": 0.08453926399897853,
+      "pearsonP": 1.5977497905511106e-12,
+      "spearmanR": 0.06661195044056603,
+      "spearmanP": 2.6428224121454164e-08
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.05358904021420167,
+      "pearsonP": 7.672387931388466e-06,
+      "spearmanR": 0.025637855795247185,
+      "spearmanP": 0.0324107360159576
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.05358429825275438,
+      "pearsonP": 7.68663502190701e-06,
+      "spearmanR": -0.07902026082275121,
+      "spearmanP": 4.030388124432705e-11
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "QT_DESKTOP_ALUNO",
+      "pearsonR": 0.048503749961512646,
+      "pearsonP": 5.14298876071059e-05,
+      "spearmanR": 0.328347126420195,
+      "spearmanP": 1.0652266618644895e-174
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_ENERGIA_REDE_PUBLICA",
+      "pearsonR": 0.04197453212602088,
+      "pearsonP": 0.00045925069296068403,
+      "spearmanR": 0.03587425815452091,
+      "spearmanP": 0.0027540095084630906
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": 0.02995280206788598,
+      "pearsonP": 0.012436469596924134,
+      "spearmanR": 0.06086274775807126,
+      "spearmanP": 3.725635738495634e-07
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": -0.024293233993972752,
+      "pearsonP": 0.04265482533868201,
+      "spearmanR": -0.062044077050469985,
+      "spearmanP": 2.203386122815841e-07
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.11144968617472763,
+      "pearsonP": 1.1943075280663944e-20,
+      "spearmanR": 0.16903503875523865,
+      "spearmanP": 1.0635140631992267e-45
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.06874847077522238,
+      "pearsonP": 9.678891210092576e-09,
+      "spearmanR": 0.10468733275214785,
+      "spearmanP": 2.159109443497527e-18
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.06549069096110152,
+      "pearsonP": 4.659477288310953e-08,
+      "spearmanR": 0.03196433093174016,
+      "spearmanP": 0.00770851012274993
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.06449816173937514,
+      "pearsonP": 7.413154217908475e-08,
+      "spearmanR": 0.08391841886348328,
+      "spearmanP": 2.450643892775554e-12
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.05872498627026932,
+      "pearsonP": 9.664564987647178e-07,
+      "spearmanR": 0.06517650194943331,
+      "spearmanP": 5.401217967752822e-08
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.05064134630000602,
+      "pearsonP": 2.4091929609227253e-05,
+      "spearmanR": 0.10274176963878881,
+      "spearmanP": 9.068540841188839e-18
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.043110897973941964,
+      "pearsonP": 0.0003249915098856616,
+      "spearmanR": 0.005025545831713552,
+      "spearmanP": 0.6753404086553068
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.036369177808641615,
+      "pearsonP": 0.0024294067773324908,
+      "spearmanR": -0.01606248210637106,
+      "spearmanP": 0.18065915314170164
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.031793369662580465,
+      "pearsonP": 0.008041585546670447,
+      "spearmanR": 0.029551908636188146,
+      "spearmanP": 0.013763235307091507
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": 0.029843144709109013,
+      "pearsonP": 0.012858234444697147,
+      "spearmanR": 0.09757581198071602,
+      "spearmanP": 3.597575356609354e-16
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.029535955214466975,
+      "pearsonP": 0.013814395899619502,
+      "spearmanR": 0.0019500398025694816,
+      "spearmanP": 0.8708996702377226
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": -0.027578198185322554,
+      "pearsonP": 0.021516580958169516,
+      "spearmanR": -0.02563189881676317,
+      "spearmanP": 0.03263828287515983
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.024185798011543438,
+      "pearsonP": 0.043807170434941874,
+      "spearmanR": -0.06013734894223687,
+      "spearmanP": 5.26577319955373e-07
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.3520344608541928,
+      "pearsonP": 2.7725962653291003e-202,
+      "spearmanR": 0.3089348103551666,
+      "spearmanP": 7.40001507058021e-154
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.2639403760080157,
+      "pearsonP": 2.560484093071867e-111,
+      "spearmanR": 0.2401371147186378,
+      "spearmanP": 6.597832639855624e-92
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.24490147804310994,
+      "pearsonP": 1.257569397479264e-95,
+      "spearmanR": -0.1536405901607559,
+      "spearmanP": 4.814912944091064e-38
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.2147562069170691,
+      "pearsonP": 1.8835321282490973e-73,
+      "spearmanR": 0.21743851841642936,
+      "spearmanP": 2.7005219540461047e-75
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.19301856335621395,
+      "pearsonP": 2.0069826488084386e-59,
+      "spearmanR": 0.1667910905630972,
+      "spearmanP": 1.287446397281946e-44
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.17180552534575355,
+      "pearsonP": 2.8497504636646977e-47,
+      "spearmanR": 0.16527863625919356,
+      "spearmanP": 7.840333828944485e-44
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": 0.16897566699509714,
+      "pearsonP": 9.188265988370468e-46,
+      "spearmanR": 0.14588672327634206,
+      "spearmanP": 1.976956144332937e-34
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.14973779467953555,
+      "pearsonP": 3.353597490597462e-36,
+      "spearmanR": 0.1566371025143454,
+      "spearmanP": 1.7149785283836005e-39
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.14338562248446454,
+      "pearsonP": 2.632631194133807e-33,
+      "spearmanR": 0.010051153280111904,
+      "spearmanP": 0.40170223632863766
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.13310795258339173,
+      "pearsonP": 6.783560854331083e-29,
+      "spearmanR": 0.12455515104587707,
+      "spearmanP": 1.7668401409536636e-25
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.11949166337644386,
+      "pearsonP": 1.4488168694206623e-23,
+      "spearmanR": -0.23056741550266202,
+      "spearmanP": 1.1098228724578758e-84
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.11141865241250144,
+      "pearsonP": 1.1133995524543955e-20,
+      "spearmanR": 0.08701814551214931,
+      "spearmanP": 3.4979788809565544e-13
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.08646391699389974,
+      "pearsonP": 4.93096053272565e-13,
+      "spearmanR": 0.05342305663644882,
+      "spearmanP": 8.186412279169697e-06
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.08286499765553486,
+      "pearsonP": 4.350313198798974e-12,
+      "spearmanR": 0.08574388646319195,
+      "spearmanP": 7.678216345235592e-13
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.07212741957377204,
+      "pearsonP": 1.6868022850720108e-09,
+      "spearmanR": 0.11051425517015583,
+      "spearmanP": 2.276611293277294e-20
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": 0.07204888963999424,
+      "pearsonP": 1.7567812416606171e-09,
+      "spearmanR": 0.05595243537146611,
+      "spearmanP": 2.986446850164723e-06
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.06203795196942604,
+      "pearsonP": 2.2094491131972912e-07,
+      "spearmanR": 0.010077729040741477,
+      "spearmanP": 0.4004586624568055
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "QT_DESKTOP_ALUNO",
+      "pearsonR": 0.0590514484639437,
+      "pearsonP": 8.183384013131287e-07,
+      "spearmanR": 0.3438855495950329,
+      "spearmanP": 1.6074909608715435e-192
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": -0.03208108013759933,
+      "pearsonP": 0.007424006100189933,
+      "spearmanR": 0.012186320108954993,
+      "spearmanP": 0.3092782270001379
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_ENERGIA_REDE_PUBLICA",
+      "pearsonR": 0.031362018043920845,
+      "pearsonP": 0.008866354683299875,
+      "spearmanR": 0.02594371961504818,
+      "spearmanP": 0.030400033006835626
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": -0.02587764466103445,
+      "pearsonP": 0.03082508552564469,
+      "spearmanR": -0.06320256819233042,
+      "spearmanP": 1.304284463054438e-07
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.1556745282724142,
+      "pearsonP": 6.068001331045599e-39,
+      "spearmanR": 0.13543352225834418,
+      "spearmanP": 8.384758779704147e-30
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.14388620801521787,
+      "pearsonP": 1.843120713949159e-33,
+      "spearmanR": 0.19707994126195014,
+      "spearmanP": 8.580619189279925e-62
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.1438495049534065,
+      "pearsonP": 1.9139413497565434e-33,
+      "spearmanR": 0.16633625331687732,
+      "spearmanP": 2.743607938020889e-44
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.11817862547364374,
+      "pearsonP": 4.902981432008634e-23,
+      "spearmanR": 0.11010197254563953,
+      "spearmanP": 3.4533449875404313e-20
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.09540581345440108,
+      "pearsonP": 1.5961194887116255e-15,
+      "spearmanR": 0.06097411734495838,
+      "spearmanP": 3.651253797076093e-07
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.09060887262604025,
+      "pearsonP": 3.8228963767077416e-14,
+      "spearmanR": 0.04202681532597744,
+      "spearmanP": 0.00045824128907465117
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.08992489442262282,
+      "pearsonP": 5.934079729514386e-14,
+      "spearmanR": 0.07921140492278339,
+      "spearmanP": 3.7956533002887034e-11
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": 0.0888895676725595,
+      "pearsonP": 1.1473620342750996e-13,
+      "spearmanR": 0.05830075572206248,
+      "spearmanP": 1.1567717494706738e-06
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.08776509859764453,
+      "pearsonP": 2.328153641794477e-13,
+      "spearmanR": 0.05014699547616499,
+      "spearmanP": 2.891277630389864e-05
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.0852756715195787,
+      "pearsonP": 1.0807009010595234e-12,
+      "spearmanR": 0.11033436264906868,
+      "spearmanP": 2.878248999169538e-20
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.06546921815678448,
+      "pearsonP": 4.7068578511492373e-08,
+      "spearmanR": -0.11515598267990097,
+      "spearmanP": 6.024985533430156e-22
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.06173377408582445,
+      "pearsonP": 2.6078633345743266e-07,
+      "spearmanR": 0.08906787442425854,
+      "spearmanP": 1.0247485594418756e-13
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.05975486508810299,
+      "pearsonP": 6.215289878842215e-07,
+      "spearmanR": 0.04290421576192809,
+      "spearmanP": 0.00034720126060802165
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.04386333940993138,
+      "pearsonP": 0.0002548698447661486,
+      "spearmanR": 0.014964655387586914,
+      "spearmanP": 0.21231712700310806
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": 0.043159321048559934,
+      "pearsonP": 0.00031998386166610856,
+      "spearmanR": 0.012909839998539879,
+      "spearmanP": 0.2819511421079572
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_ENERGIA_REDE_PUBLICA",
+      "pearsonR": 0.03268098584258499,
+      "pearsonP": 0.0064428163694628775,
+      "spearmanR": 0.013021730357174664,
+      "spearmanP": 0.2778009046208097
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.024321626424529057,
+      "pearsonP": 0.04263622931985042,
+      "spearmanR": -0.05710474155936952,
+      "spearmanP": 1.9075775700212172e-06
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.3255081038456468,
+      "pearsonP": 1.4891243881899499e-171,
+      "spearmanR": 0.2965257307577633,
+      "spearmanP": 2.455044249591893e-141
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.31309779246047165,
+      "pearsonP": 3.3887111409082784e-158,
+      "spearmanR": 0.3031207808725012,
+      "spearmanP": 6.48981411662317e-148
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.2808972261190887,
+      "pearsonP": 1.9757674947653355e-126,
+      "spearmanR": 0.27690254169666206,
+      "spearmanP": 8.998122262183966e-123
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.24861720179310878,
+      "pearsonP": 1.3848961328413521e-98,
+      "spearmanR": 0.22737660514138847,
+      "spearmanP": 2.4110094137152255e-82
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": 0.2089710686020556,
+      "pearsonP": 1.4663965086009323e-69,
+      "spearmanR": 0.17674207618330828,
+      "spearmanP": 5.758471198546535e-50
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.19998794622431895,
+      "pearsonP": 9.565736765187853e-64,
+      "spearmanR": 0.1648890321621856,
+      "spearmanP": 1.2451902393996047e-43
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.18294622281327017,
+      "pearsonP": 1.817736915011307e-53,
+      "spearmanR": 0.1891894539746436,
+      "spearmanP": 4.04796474564237e-57
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.17491181109750056,
+      "pearsonP": 5.870768811531434e-49,
+      "spearmanR": 0.12198633728397217,
+      "spearmanP": 1.6910569146226465e-24
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.16557788689897496,
+      "pearsonP": 5.491460212128666e-44,
+      "spearmanR": 0.1687666308397773,
+      "spearmanP": 1.1847188379086712e-45
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.15856021860150524,
+      "pearsonP": 1.9472916873580155e-40,
+      "spearmanR": -0.11849915404982722,
+      "spearmanP": 3.3630814430498034e-23
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.15391982221489475,
+      "pearsonP": 3.538758090838282e-38,
+      "spearmanR": 0.14325647507753525,
+      "spearmanP": 3.0054272402055947e-33
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.13100788263592722,
+      "pearsonP": 4.915210606574605e-28,
+      "spearmanR": -0.2683484976348683,
+      "spearmanP": 3.8374242910251744e-115
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.12948179527878317,
+      "pearsonP": 2.031462946898609e-27,
+      "spearmanR": 0.10422716782631777,
+      "spearmanP": 2.797090799099466e-18
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": -0.11247819125700773,
+      "pearsonP": 4.78073769710328e-21,
+      "spearmanR": -0.1444400964261443,
+      "spearmanP": 8.887545395296201e-34
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": 0.10218166095232215,
+      "pearsonP": 1.2594052609022296e-17,
+      "spearmanR": 0.07801346872381183,
+      "spearmanP": 7.098113731395817e-11
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": -0.06742458197134493,
+      "pearsonP": 1.785291697646606e-08,
+      "spearmanR": -0.1113722305510061,
+      "spearmanP": 1.1552011568211791e-20
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.053495723817400635,
+      "pearsonP": 7.957448445178198e-06,
+      "spearmanR": 0.011584753485292138,
+      "spearmanP": 0.3337720862113074
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": 0.05341067041736622,
+      "pearsonP": 8.226062257745616e-06,
+      "spearmanR": 0.0881908277643954,
+      "spearmanP": 1.6796897143042652e-13
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_ENERGIA_REDE_PUBLICA",
+      "pearsonR": 0.04928547727631226,
+      "pearsonP": 3.8824077460445955e-05,
+      "spearmanR": 0.03466661016919295,
+      "spearmanP": 0.0038147035306872173
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "QT_DESKTOP_ALUNO",
+      "pearsonR": 0.0446022173332067,
+      "pearsonP": 0.00019687081642472262,
+      "spearmanR": 0.33283600686521886,
+      "spearmanP": 9.65570551665582e-180
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.07693717412830221,
+      "pearsonP": 1.349932970521281e-10,
+      "spearmanR": 0.13701685124396673,
+      "spearmanP": 1.8012120638727637e-30
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": -0.06988893428524497,
+      "pearsonP": 5.4881332750934085e-09,
+      "spearmanR": -0.13155120167499604,
+      "spearmanP": 3.3704320693083783e-28
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": -0.06252653623478016,
+      "pearsonP": 1.8278409776404594e-07,
+      "spearmanR": -0.05788557750463369,
+      "spearmanP": 1.3776352057372237e-06
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": -0.060965698951719695,
+      "pearsonP": 3.6648158520929185e-07,
+      "spearmanR": -0.04475113249695558,
+      "spearmanP": 0.0001904081895072133
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": -0.06015923905488476,
+      "pearsonP": 5.215890524906262e-07,
+      "spearmanR": -0.10738330026394322,
+      "spearmanP": 2.827087782969108e-19
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": 0.051706964738990974,
+      "pearsonP": 1.6169244547830788e-05,
+      "spearmanR": 0.16013617912930847,
+      "spearmanP": 3.90208151359247e-41
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": -0.04914402522196348,
+      "pearsonP": 4.1651425284317994e-05,
+      "spearmanR": -0.10138795214695212,
+      "spearmanP": 2.4230564717818977e-17
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": -0.044783875037344795,
+      "pearsonP": 0.00018835274286753,
+      "spearmanR": -0.06692945420573027,
+      "spearmanP": 2.3485909488671363e-08
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": 0.0378331452567889,
+      "pearsonP": 0.0016097688644698845,
+      "spearmanR": 0.01235024596288495,
+      "spearmanP": 0.30333654737142796
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": 0.03641095931077809,
+      "pearsonP": 0.0024015021366268646,
+      "spearmanR": 0.0028438853206200826,
+      "spearmanP": 0.8126498597606259
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": -0.03586696057394783,
+      "pearsonP": 0.0027888379844851147,
+      "spearmanR": -0.06598434989021458,
+      "spearmanP": 3.68930207961317e-08
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": -0.03441331063694028,
+      "pearsonP": 0.004119755705188124,
+      "spearmanR": -0.03449221378038574,
+      "spearmanP": 0.004034838183477106
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": -0.0249017878868758,
+      "pearsonP": 0.03792832024359829,
+      "spearmanR": -0.07984091501989522,
+      "spearmanP": 2.6546649024933123e-11
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.3821674054690382,
+      "pearsonP": 5.561342608618511e-241,
+      "spearmanR": 0.31952936770695733,
+      "spearmanP": 4.865653653456172e-165
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.22645477822993035,
+      "pearsonP": 1.123699787122762e-81,
+      "spearmanR": 0.19513366909237062,
+      "spearmanP": 1.0193106076275117e-60
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.21585225932625465,
+      "pearsonP": 3.3472333207454273e-74,
+      "spearmanR": -0.1338827534825106,
+      "spearmanP": 3.2405139687010414e-29
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.19236582843085967,
+      "pearsonP": 4.999259675482924e-59,
+      "spearmanR": 0.19852616392157052,
+      "spearmanP": 7.958571207410896e-63
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.18892923232061096,
+      "pearsonP": 5.78192669800471e-57,
+      "spearmanR": 0.16521474824802118,
+      "spearmanP": 8.458876637925783e-44
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": 0.17568640117473652,
+      "pearsonP": 2.204369456625027e-49,
+      "spearmanR": 0.1549293457167259,
+      "spearmanP": 1.1567534295342185e-38
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.17479347788454908,
+      "pearsonP": 6.815692448987982e-49,
+      "spearmanR": 0.17374993303941091,
+      "spearmanP": 2.5298418069259944e-48
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.14728507215129663,
+      "pearsonP": 4.5564355334813e-35,
+      "spearmanR": -0.22839701679345192,
+      "spearmanP": 4.352757896270375e-83
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.14695878283020733,
+      "pearsonP": 6.425540764791378e-35,
+      "spearmanR": 0.021230505951343574,
+      "spearmanP": 0.07648548513017678
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.12423583923793564,
+      "pearsonP": 2.3456379323493813e-25,
+      "spearmanR": 0.11680046134345737,
+      "spearmanP": 1.398101069538147e-22
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.11851580982667383,
+      "pearsonP": 3.316083016096329e-23,
+      "spearmanR": 0.13962066385984911,
+      "spearmanP": 1.1892668449282578e-31
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.09620176242161795,
+      "pearsonP": 8.642913123959684e-16,
+      "spearmanR": 0.08198474867224238,
+      "spearmanP": 7.30839081824281e-12
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.07568535505631933,
+      "pearsonP": 2.5575276785679613e-10,
+      "spearmanR": 0.0912499900984163,
+      "spearmanP": 2.368190337615994e-14
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.07476461791881514,
+      "pearsonP": 4.202190452161789e-10,
+      "spearmanR": 0.0403258106749808,
+      "spearmanP": 0.0007633981981282707
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "QT_DESKTOP_ALUNO",
+      "pearsonR": 0.07218298834305518,
+      "pearsonP": 1.6389328734715391e-09,
+      "spearmanR": 0.34749580566493365,
+      "spearmanP": 8.252412445123916e-197
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.06780926854576579,
+      "pearsonP": 1.4803932267198195e-08,
+      "spearmanR": 0.006280023313156618,
+      "spearmanP": 0.6003167465507833
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": 0.05637859990777811,
+      "pearsonP": 2.509100095301111e-06,
+      "spearmanR": 0.04788471853485942,
+      "spearmanP": 6.407005499606502e-05
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": -0.05286075416576298,
+      "pearsonP": 1.0183610324147304e-05,
+      "spearmanR": -0.00024282718678069362,
+      "spearmanP": 0.983836779822424
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.04461328589738417,
+      "pearsonP": 0.00019615064397366232,
+      "spearmanR": 0.08386859316644019,
+      "spearmanP": 2.392128203067933e-12
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": -0.0373078934292582,
+      "pearsonP": 0.0018477793399575024,
+      "spearmanR": 0.01147696821288901,
+      "spearmanP": 0.3382894552194319
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_ENERGIA_REDE_PUBLICA",
+      "pearsonR": 0.03549179146176109,
+      "pearsonP": 0.003056482817524736,
+      "spearmanR": 0.032230739851798404,
+      "spearmanP": 0.007151695539808944
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.2361507244264505,
+      "pearsonP": 1.1390056725119894e-88,
+      "spearmanR": 0.2811277050866166,
+      "spearmanP": 2.2460984935447103e-126
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.18082769442411115,
+      "pearsonP": 3.784988481208007e-52,
+      "spearmanR": 0.1670149974091175,
+      "spearmanP": 1.21772825226764e-44
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.17060183813664762,
+      "pearsonP": 1.5714743225818811e-46,
+      "spearmanR": 0.14776749998566588,
+      "spearmanP": 3.233334466844988e-35
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.1592995577826679,
+      "pearsonP": 1.0166881746102953e-40,
+      "spearmanR": 0.15007270868929368,
+      "spearmanP": 2.779369126325022e-36
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": 0.15728159879117204,
+      "pearsonP": 1.0023156730484054e-39,
+      "spearmanR": 0.11442863550997268,
+      "spearmanP": 1.0911447075898055e-21
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.15669362769045653,
+      "pearsonP": 1.941306155208345e-39,
+      "spearmanR": 0.11931931393068446,
+      "spearmanP": 1.870287785769073e-23
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.13978480016708092,
+      "pearsonP": 1.1716891588047582e-31,
+      "spearmanR": 0.0886155604475968,
+      "spearmanP": 1.3643918552529906e-13
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.10444128630673333,
+      "pearsonP": 2.5926242495469493e-18,
+      "spearmanR": -0.1514776163876923,
+      "spearmanP": 6.1106970772068775e-37
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.09913025056354369,
+      "pearsonP": 1.2123858978256024e-16,
+      "spearmanR": 0.059794408022331644,
+      "spearmanP": 6.109951772783006e-07
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.09736364159458094,
+      "pearsonP": 4.167839354629652e-16,
+      "spearmanR": -0.1263975692992234,
+      "spearmanP": 3.835172300802648e-26
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.0966653478080681,
+      "pearsonP": 6.749143011296629e-16,
+      "spearmanR": 0.05126994362953136,
+      "spearmanP": 1.9059588676010046e-05
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.0891251492029282,
+      "pearsonP": 9.881675067927816e-14,
+      "spearmanR": 0.1092961987373967,
+      "spearmanP": 6.47518046865595e-20
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.08072201373674896,
+      "pearsonP": 1.6020236183490523e-11,
+      "spearmanR": 0.08064812776867261,
+      "spearmanP": 1.6716757379200324e-11
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.06088073427509393,
+      "pearsonP": 3.804443355025976e-07,
+      "spearmanR": 0.0287800413000574,
+      "spearmanP": 0.016439198985622593
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.058198789767642756,
+      "pearsonP": 1.207624967774129e-06,
+      "spearmanR": 0.06519740006849846,
+      "spearmanP": 5.348519723210232e-08
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": 0.05753248506678977,
+      "pearsonP": 1.5968848219359195e-06,
+      "spearmanR": 0.029911225212448538,
+      "spearmanP": 0.012654426216690353
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.051033738658213146,
+      "pearsonP": 2.082023406238769e-05,
+      "spearmanR": 0.02521001448574787,
+      "spearmanP": 0.03561217131950161
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_ENERGIA_REDE_PUBLICA",
+      "pearsonR": 0.04001119153941527,
+      "pearsonP": 0.0008503747731889672,
+      "spearmanR": 0.019225574358535266,
+      "spearmanP": 0.10906695398107631
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": -0.026350150640353297,
+      "pearsonP": 0.028063747230042468,
+      "spearmanR": 0.004082153454394554,
+      "spearmanP": 0.7337008541458544
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.32231606229182735,
+      "pearsonP": 4.670161448784516e-168,
+      "spearmanR": 0.31580212713765154,
+      "spearmanP": 4.7142840464721885e-161
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.2039551962847277,
+      "pearsonP": 2.7981832022525876e-66,
+      "spearmanR": 0.18853153947322632,
+      "spearmanP": 9.960175273378253e-57
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.19914691819706265,
+      "pearsonP": 3.2433151071167963e-63,
+      "spearmanR": 0.18307876856890765,
+      "spearmanP": 1.5252614648318542e-53
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.1657714190668798,
+      "pearsonP": 4.360321078170695e-44,
+      "spearmanR": 0.12188534529451374,
+      "spearmanP": 1.8462969538782256e-24
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": 0.15209545774753594,
+      "pearsonP": 2.618654162565654e-37,
+      "spearmanR": 0.1142319188325583,
+      "spearmanP": 1.1590884276514435e-21
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.14585818126374064,
+      "pearsonP": 2.036766814165238e-34,
+      "spearmanR": -0.1302667739471904,
+      "spearmanP": 9.811513782040052e-28
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.14419610207767097,
+      "pearsonP": 1.14346603062982e-33,
+      "spearmanR": 0.1297937342500236,
+      "spearmanP": 1.5220854470271889e-27
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.14131144389334846,
+      "pearsonP": 2.1761545465792018e-32,
+      "spearmanR": 0.11043484408251347,
+      "spearmanP": 2.4235019448498646e-20
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.13203807078072682,
+      "pearsonP": 1.8679742178977698e-28,
+      "spearmanR": -0.1473066076800151,
+      "spearmanP": 4.4541028827115415e-35
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.11549801456755462,
+      "pearsonP": 4.1105222340819475e-22,
+      "spearmanR": 0.06249487947649291,
+      "spearmanP": 1.7986725144023012e-07
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.1120439731423294,
+      "pearsonP": 6.7668087718288775e-21,
+      "spearmanR": 0.12153712891194207,
+      "spearmanP": 2.497889235314573e-24
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.10935346500869708,
+      "pearsonP": 5.652913307093765e-20,
+      "spearmanR": 0.07676547354786495,
+      "spearmanP": 1.417694569843336e-10
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.10599718551870953,
+      "pearsonP": 7.427360437876914e-19,
+      "spearmanR": 0.07687322087156748,
+      "spearmanP": 1.3360691750718707e-10
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.10074309874369185,
+      "pearsonP": 3.5645700621911944e-17,
+      "spearmanR": 0.050820411302697474,
+      "spearmanP": 2.2087743425852106e-05
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": -0.0965090894688041,
+      "pearsonP": 6.997666775187907e-16,
+      "spearmanR": -0.07144922870708369,
+      "spearmanP": 2.392829193778561e-09
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.06692537371075583,
+      "pearsonP": 2.2729805550168314e-08,
+      "spearmanR": 0.07260234035471384,
+      "spearmanP": 1.3179775166893694e-09
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": 0.059320194642250294,
+      "pearsonP": 7.29192442667879e-07,
+      "spearmanR": 0.02813874441833424,
+      "spearmanP": 0.0188710042069638
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": -0.052931831887086694,
+      "pearsonP": 9.907605156820566e-06,
+      "spearmanR": -0.04496424446079658,
+      "spearmanP": 0.00017455825795622117
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": 0.051693385182437386,
+      "pearsonP": 1.591379953252687e-05,
+      "spearmanR": 0.027045388558111692,
+      "spearmanP": 0.02402063540980903
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_ENERGIA_REDE_PUBLICA",
+      "pearsonR": 0.046071092014438625,
+      "pearsonP": 0.0001201914760274363,
+      "spearmanR": 0.02392407074379769,
+      "spearmanP": 0.04590545372626102
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_DESKTOP_ALUNO",
+      "pearsonR": 0.03665174777349451,
+      "pearsonP": 0.0022217445404243783,
+      "spearmanR": 0.3018564837064978,
+      "spearmanP": 1.2207695750581327e-146
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.19861842269996127,
+      "pearsonP": 9.430624466894276e-63,
+      "spearmanR": 0.18755061316610142,
+      "spearmanP": 4.962321089849404e-56
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": -0.17008999725867374,
+      "pearsonP": 2.9408851689650033e-46,
+      "spearmanR": -0.22030710573893983,
+      "spearmanP": 3.932926806783117e-77
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.1606257054743564,
+      "pearsonP": 2.2227792206137895e-41,
+      "spearmanR": 0.2544481823596897,
+      "spearmanP": 4.134223759138421e-103
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": -0.16006742933819867,
+      "pearsonP": 4.2223865896172637e-41,
+      "spearmanR": -0.1830360984297435,
+      "spearmanP": 2.0861013689385728e-53
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": -0.1580938113544822,
+      "pearsonP": 4.004845483626263e-40,
+      "spearmanR": -0.15083485567130558,
+      "spearmanP": 1.2242035110743795e-36
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": 0.15425767560181386,
+      "pearsonP": 2.921506778070955e-38,
+      "spearmanR": 0.1280471717332416,
+      "spearmanP": 8.604963621690567e-27
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": -0.11038531334029515,
+      "pearsonP": 2.765419905607623e-20,
+      "spearmanR": -0.09043807725035323,
+      "spearmanP": 4.267863258214962e-14
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": -0.10915977882955892,
+      "pearsonP": 7.199043460560463e-20,
+      "spearmanR": -0.15747102741980679,
+      "spearmanP": 8.096063506018319e-40
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": 0.10061592395664251,
+      "pearsonP": 4.219334862914319e-17,
+      "spearmanR": 0.2586102594403926,
+      "spearmanP": 1.4509750028511173e-106
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": -0.09873938871791405,
+      "pearsonP": 1.5962996789285305e-16,
+      "spearmanR": -0.10777014400083106,
+      "spearmanP": 2.1028439759310218e-19
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": -0.08785539281076822,
+      "pearsonP": 2.2002728849487214e-13,
+      "spearmanR": -0.12885706391878132,
+      "spearmanP": 4.101725535519974e-27
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": -0.08736532905236853,
+      "pearsonP": 2.987728660286501e-13,
+      "spearmanR": -0.07527804607977225,
+      "spearmanP": 3.3303709298674574e-10
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": -0.0809836457563113,
+      "pearsonP": 1.3774862959444458e-11,
+      "spearmanR": -0.09674806656572506,
+      "spearmanP": 6.375712851852133e-16
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": -0.06450262695794898,
+      "pearsonP": 7.397795519636603e-08,
+      "spearmanR": -0.051993010090357054,
+      "spearmanP": 1.4509047969910265e-05
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": -0.05996772260042916,
+      "pearsonP": 5.668212089264737e-07,
+      "spearmanR": -0.05355919820120984,
+      "spearmanP": 7.939391523496258e-06
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": -0.05011072856048915,
+      "pearsonP": 2.9300394770312032e-05,
+      "spearmanR": -0.06620866203308863,
+      "spearmanP": 3.316143081674647e-08
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": 0.04917980015843714,
+      "pearsonP": 4.111735353521439e-05,
+      "spearmanR": 0.012421224906552468,
+      "spearmanP": 0.30056586584853406
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": -0.044792638967528706,
+      "pearsonP": 0.00018780612602814186,
+      "spearmanR": -0.06150606058967316,
+      "spearmanP": 2.885863004297245e-07
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.04348465403914079,
+      "pearsonP": 0.0002881669189659177,
+      "spearmanR": 0.03800477169580575,
+      "spearmanP": 0.0015325432169859118
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.024358234780806974,
+      "pearsonP": 0.04232520322971548,
+      "spearmanR": -0.005051469417121945,
+      "spearmanP": 0.6737620463895367
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.406989385797495,
+      "pearsonP": 4.262272757776899e-110,
+      "spearmanR": 0.38659685707199876,
+      "spearmanP": 1.266256995100859e-98
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.17789830355081046,
+      "pearsonP": 5.734663345472197e-21,
+      "spearmanR": 0.11931277877212214,
+      "spearmanP": 3.542163308994479e-10
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.17274986221588698,
+      "pearsonP": 7.606562467234147e-20,
+      "spearmanR": 0.14037336360270733,
+      "spearmanP": 1.4628226355656448e-13
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.11771021822641939,
+      "pearsonP": 6.088472971569199e-10,
+      "spearmanR": 0.051419965958994104,
+      "spearmanP": 0.0070268066613423125
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.11482836041666067,
+      "pearsonP": 1.5837434279627372e-09,
+      "spearmanR": 0.0874769728033507,
+      "spearmanP": 4.399759100029819e-06
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.0955162399471875,
+      "pearsonP": 5.293076323918358e-07,
+      "spearmanR": 0.1230065339920935,
+      "spearmanP": 9.888782563476828e-11
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.08952366636128342,
+      "pearsonP": 2.609245035673701e-06,
+      "spearmanR": -0.09736181093330312,
+      "spearmanP": 3.1752155422284386e-07
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.08762761733724722,
+      "pearsonP": 4.235406528115455e-06,
+      "spearmanR": 0.05456783875707736,
+      "spearmanP": 0.004225333023793188
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.08559245348628933,
+      "pearsonP": 7.047099518907693e-06,
+      "spearmanR": -0.024934949306810363,
+      "spearmanP": 0.1913843966940569
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.06435114217382565,
+      "pearsonP": 0.0007388970707334286,
+      "spearmanR": 0.05381417305589254,
+      "spearmanP": 0.004783541985778756
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.05493833126022204,
+      "pearsonP": 0.003973179741811147,
+      "spearmanR": 0.006285316845573264,
+      "spearmanP": 0.7419453587061342
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.05382992154245157,
+      "pearsonP": 0.004771226150318601,
+      "spearmanR": 0.025514440887667272,
+      "spearmanP": 0.18126587818805595
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.0940267043172023,
+      "pearsonP": 7.977810854430447e-07,
+      "spearmanR": 0.14380012704487194,
+      "spearmanP": 3.692054678639298e-14
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": 0.07864436917353541,
+      "pearsonP": 3.696736326230095e-05,
+      "spearmanR": 0.05389423683919278,
+      "spearmanP": 0.0047288185984286964
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": -0.07554345229954777,
+      "pearsonP": 7.416575992912958e-05,
+      "spearmanR": -0.046262802456133865,
+      "spearmanP": 0.015330703352800748
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.0660307804379292,
+      "pearsonP": 0.0005354451954466498,
+      "spearmanR": 0.00431627896024114,
+      "spearmanP": 0.8211384426917476
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH_std",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": 0.054088004407434734,
+      "pearsonP": 0.004580844785335176,
+      "spearmanR": 0.08669793218231497,
+      "spearmanP": 5.373006468667825e-06
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": -0.05404665003134996,
+      "pearsonP": 0.00461206926921025,
+      "spearmanR": -0.13348268958514797,
+      "spearmanP": 2.1705699296079417e-12
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": -0.046949056260079815,
+      "pearsonP": 0.013875336381552335,
+      "spearmanR": -0.006542207557030126,
+      "spearmanP": 0.731843548159119
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.04692890727520102,
+      "pearsonP": 0.013916265618868625,
+      "spearmanR": -0.015397787652239512,
+      "spearmanP": 0.41992015845481756
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.045196829184744707,
+      "pearsonP": 0.01785799765932035,
+      "spearmanR": 0.054849425390900736,
+      "spearmanP": 0.004039107932224521
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.4043859737541343,
+      "pearsonP": 1.379032581802764e-108,
+      "spearmanR": 0.3918048382634212,
+      "spearmanP": 1.7739044801661286e-101
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.1697149243374115,
+      "pearsonP": 3.364734701574995e-19,
+      "spearmanR": 0.1409952952700068,
+      "spearmanP": 1.1400481864912728e-13
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.15476998428340247,
+      "pearsonP": 3.4264533721555875e-16,
+      "spearmanR": 0.09190049552118777,
+      "spearmanP": 1.402187524637555e-06
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.11585070086846223,
+      "pearsonP": 1.1312388596160532e-09,
+      "spearmanR": 0.09590426492120119,
+      "spearmanP": 4.7575445521365334e-07
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.0996544403853203,
+      "pearsonP": 1.661260089741549e-07,
+      "spearmanR": 0.05204987257247846,
+      "spearmanP": 0.006359664792089445
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.09443598235051301,
+      "pearsonP": 7.10782460940015e-07,
+      "spearmanR": -0.03872999941022017,
+      "spearmanP": 0.04238218102691916
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.09136797240174717,
+      "pearsonP": 1.6136641607432984e-06,
+      "spearmanR": 0.11377165269438765,
+      "spearmanP": 2.235612269323338e-09
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.08845589630492337,
+      "pearsonP": 3.4317200884703766e-06,
+      "spearmanR": -0.09601416331976986,
+      "spearmanP": 4.6156185450180637e-07
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.07776028062424338,
+      "pearsonP": 4.505852047247103e-05,
+      "spearmanR": 0.03630597525553,
+      "spearmanP": 0.05708965136675396
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.07250288651983523,
+      "pearsonP": 0.00014278964546914628,
+      "spearmanR": 0.045358847405428594,
+      "spearmanP": 0.017431300297949415
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.06379421611274708,
+      "pearsonP": 0.0008214686483632256,
+      "spearmanR": 0.05733778901157845,
+      "spearmanP": 0.002644618228086796
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": -0.048984388510198866,
+      "pearsonP": 0.010236555412422412,
+      "spearmanR": -0.056363888995107164,
+      "spearmanP": 0.003125278456860264
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.038168684751146945,
+      "pearsonP": 0.04546690613481192,
+      "spearmanR": 0.0022568000446806457,
+      "spearmanP": 0.9058859450328454
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.11310163408754408,
+      "pearsonP": 2.795718953249588e-09,
+      "spearmanR": 0.15417953735496479,
+      "spearmanP": 4.499359806584026e-16
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": -0.07334792180989454,
+      "pearsonP": 0.00011955757971519444,
+      "spearmanR": -0.030364518674304022,
+      "spearmanP": 0.11165174671851144
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.07028822196492719,
+      "pearsonP": 0.0002276755001625077,
+      "spearmanR": 0.07208905352048758,
+      "spearmanP": 0.0001563056137264446
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": 0.06829334169433299,
+      "pearsonP": 0.00034191541336590664,
+      "spearmanR": 0.026734399608998094,
+      "spearmanP": 0.1613468198272528
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.06476907036409466,
+      "pearsonP": 0.0006836126901627725,
+      "spearmanR": 0.07194903758190073,
+      "spearmanP": 0.00016099339605004203
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": 0.06147913798302738,
+      "pearsonP": 0.0012675375479950144,
+      "spearmanR": 0.09720616496986911,
+      "spearmanP": 3.332589852162618e-07
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.06000624266151651,
+      "pearsonP": 0.001655948469265587,
+      "spearmanR": 0.09541004691100431,
+      "spearmanP": 5.475385533665354e-07
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.04974046597956232,
+      "pearsonP": 0.00913550326532978,
+      "spearmanR": 0.02922177306988051,
+      "spearmanP": 0.1257897746101094
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.04422319362466014,
+      "pearsonP": 0.0204778574381469,
+      "spearmanR": 0.040228940764853165,
+      "spearmanP": 0.035032537459114804
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.04417998325545757,
+      "pearsonP": 0.02060151694306883,
+      "spearmanR": -0.04272898323534566,
+      "spearmanP": 0.025149429880256917
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.39025099327027146,
+      "pearsonP": 1.2756538248399298e-100,
+      "spearmanR": 0.37081549080486836,
+      "spearmanP": 2.7479085881174657e-90
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.212842140011576,
+      "pearsonP": 1.650226316837274e-29,
+      "spearmanR": 0.17407440049242337,
+      "spearmanP": 3.9412498324026755e-20
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.1393844334802664,
+      "pearsonP": 2.1694875684626562e-13,
+      "spearmanR": 0.06127257593874472,
+      "spearmanP": 0.0013137216989488256
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.11393395700300986,
+      "pearsonP": 2.120750240321941e-09,
+      "spearmanR": 0.052881366523528324,
+      "spearmanP": 0.005566384224121982
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.10618402328396062,
+      "pearsonP": 2.425412887546301e-08,
+      "spearmanR": 0.08419615895365394,
+      "spearmanP": 9.928997327155066e-06
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.09607787881202096,
+      "pearsonP": 4.5352130342691553e-07,
+      "spearmanR": -0.10283322114776255,
+      "spearmanP": 6.606789818274309e-08
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.08655013647429359,
+      "pearsonP": 5.553491881668258e-06,
+      "spearmanR": 0.12794488251266126,
+      "spearmanP": 1.6913781393363493e-11
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": -0.08610963585852822,
+      "pearsonP": 6.198412563194209e-06,
+      "spearmanR": -0.0901533846733058,
+      "spearmanP": 2.2166995973360167e-06
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.085560857145894,
+      "pearsonP": 7.1023972812378856e-06,
+      "spearmanR": 0.04260227407829234,
+      "spearmanP": 0.02555813714363552
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.07208160167852239,
+      "pearsonP": 0.0001561191863735039,
+      "spearmanR": -0.013792251339138037,
+      "spearmanP": 0.46993642245773526
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.07157847963591403,
+      "pearsonP": 0.00017357120080047203,
+      "spearmanR": 0.03519027917609528,
+      "spearmanP": 0.06516585068984866
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.05461236828835988,
+      "pearsonP": 0.004194278052794864,
+      "spearmanR": 0.07256911302746885,
+      "spearmanP": 0.0001407943044143073
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.03885344359079434,
+      "pearsonP": 0.04172805769405304,
+      "spearmanR": 0.03046342824749482,
+      "spearmanP": 0.1104245501780777
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": 0.09691467426600786,
+      "pearsonP": 3.614407589041733e-07,
+      "spearmanR": 0.06400855759208926,
+      "spearmanP": 0.0007904722998018234
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.07433785678958381,
+      "pearsonP": 9.655253180266917e-05,
+      "spearmanR": 0.13440016563115986,
+      "spearmanP": 1.5296344734229539e-12
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": -0.0657067866255697,
+      "pearsonP": 0.0005703374588277144,
+      "spearmanR": -0.10685548170658951,
+      "spearmanP": 1.988496327968924e-08
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": -0.0626606183538756,
+      "pearsonP": 0.0010187619387942225,
+      "spearmanR": -0.12551299559376405,
+      "spearmanP": 4.103557218658998e-11
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": -0.06016821339511941,
+      "pearsonP": 0.0016084248210123295,
+      "spearmanR": -0.07585879008687124,
+      "spearmanP": 6.91770171847613e-05
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": -0.05875391444661054,
+      "pearsonP": 0.002069319622521294,
+      "spearmanR": -0.021472727662945352,
+      "spearmanP": 0.26065791425967005
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": 0.05634734219404751,
+      "pearsonP": 0.0031395635112760876,
+      "spearmanR": 0.07278685244962284,
+      "spearmanP": 0.00013479693108152258
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": -0.04828512944095179,
+      "pearsonP": 0.011387562115530247,
+      "spearmanR": -0.033774377921512694,
+      "spearmanP": 0.07680150977894229
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.04767387411502888,
+      "pearsonP": 0.012471895845278172,
+      "spearmanR": 0.040267643479016194,
+      "spearmanP": 0.0348573431229494
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": 0.04553664336268099,
+      "pearsonP": 0.01701535309362922,
+      "spearmanR": 0.10871754480949664,
+      "spearmanP": 1.1205715318620358e-08
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.0437090099406714,
+      "pearsonP": 0.02199211704391111,
+      "spearmanR": 0.015683132194627723,
+      "spearmanP": 0.41135675329742283
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.4344236068437252,
+      "pearsonP": 7.552258055606565e-127,
+      "spearmanR": 0.41207630587321403,
+      "spearmanP": 4.3675379069336546e-113
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.18720118592985655,
+      "pearsonP": 4.389900270757134e-23,
+      "spearmanR": 0.15542840740748876,
+      "spearmanP": 2.560414071304817e-16
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.18138929261853948,
+      "pearsonP": 9.499114998493158e-22,
+      "spearmanR": 0.12176594630169292,
+      "spearmanP": 1.5244348899479694e-10
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.11697123967756878,
+      "pearsonP": 7.797061978757083e-10,
+      "spearmanR": 0.09862428084632249,
+      "spearmanP": 2.2265159400171557e-07
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.10877676908178328,
+      "pearsonP": 1.0934255778804313e-08,
+      "spearmanR": 0.05304885880024002,
+      "spearmanP": 0.005417827850461384
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.09677375142179236,
+      "pearsonP": 3.740486972025682e-07,
+      "spearmanR": 0.15860994481613894,
+      "spearmanP": 6.153888655748255e-17
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.09267593650005347,
+      "pearsonP": 1.1412234769152841e-06,
+      "spearmanR": 0.06435002210389719,
+      "spearmanP": 0.0007390551129952119
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.0867893891766695,
+      "pearsonP": 5.230644936638791e-06,
+      "spearmanR": -0.08131097918807416,
+      "spearmanP": 1.983110534736847e-05
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.08157993517040965,
+      "pearsonP": 1.8610175553283292e-05,
+      "spearmanR": 0.03064563605554215,
+      "spearmanP": 0.10830906963913231
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.07883980065053285,
+      "pearsonP": 3.523399237479996e-05,
+      "spearmanR": -0.014186537571568342,
+      "spearmanP": 0.4573355480341438
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": -0.05871636790900198,
+      "pearsonP": 0.0020791432359531696,
+      "spearmanR": -0.07340291608574587,
+      "spearmanP": 0.00011781661985897013
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.05309259530640789,
+      "pearsonP": 0.005379629676983824,
+      "spearmanR": 0.023638863144477815,
+      "spearmanP": 0.21550654069664754
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.04026047213460986,
+      "pearsonP": 0.034856622830108396,
+      "spearmanR": 0.06265031691566421,
+      "spearmanP": 0.0010185543217756203
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.12449232237099868,
+      "pearsonP": 5.902241507834262e-11,
+      "spearmanR": 0.15777986364105603,
+      "spearmanP": 9.067363790680306e-17
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.09395445460759586,
+      "pearsonP": 8.135030247256201e-07,
+      "spearmanR": 0.09469953451722907,
+      "spearmanP": 6.64750791737671e-07
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.08949390138073313,
+      "pearsonP": 2.6403990242804056e-06,
+      "spearmanR": 0.009114313587573683,
+      "spearmanP": 0.6330749210134524
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.07702392917288807,
+      "pearsonP": 5.336108045361911e-05,
+      "spearmanR": 0.1359956009423424,
+      "spearmanP": 8.27586208853897e-13
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": -0.05776612572219334,
+      "pearsonP": 0.0024599256158741325,
+      "spearmanR": -0.08855989476869185,
+      "spearmanP": 3.355549546567136e-06
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.05386056232273531,
+      "pearsonP": 0.0047549713681794515,
+      "spearmanR": -0.031227914561797736,
+      "spearmanP": 0.10182532231513675
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.047753388929919094,
+      "pearsonP": 0.012325854951296159,
+      "spearmanR": 0.042308075648580475,
+      "spearmanP": 0.026621500911072148
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.042642617309253394,
+      "pearsonP": 0.025445605697443197,
+      "spearmanR": -0.05170725320434653,
+      "spearmanP": 0.006725121107934759
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.041435275479146765,
+      "pearsonP": 0.029912494091520143,
+      "spearmanR": -0.006190414283941253,
+      "spearmanP": 0.7457508186024414
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": -0.0380452871514398,
+      "pearsonP": 0.04620955258140342,
+      "spearmanR": 0.002358198972548072,
+      "spearmanP": 0.9016961818080702
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.03798772862876619,
+      "pearsonP": 0.04654072171317757,
+      "spearmanR": 0.02620497108858062,
+      "spearmanP": 0.16981110870938776
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.32695114967274064,
+      "pearsonP": 1.9018407825818638e-69,
+      "spearmanR": 0.34438544651449077,
+      "spearmanP": 2.474685324224939e-77
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.25219565657776477,
+      "pearsonP": 4.0521594244951674e-41,
+      "spearmanR": 0.2523990957529799,
+      "spearmanP": 3.483304452215802e-41
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": -0.15181533218558158,
+      "pearsonP": 1.2471536180567081e-15,
+      "spearmanR": -0.16578615473727895,
+      "spearmanP": 2.2146748045998607e-18
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.14440618945754027,
+      "pearsonP": 2.848150181046777e-14,
+      "spearmanR": 0.13060074035633534,
+      "spearmanP": 6.359406846412413e-12
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.1433974352906443,
+      "pearsonP": 4.307452229539831e-14,
+      "spearmanR": -0.11929043176048713,
+      "spearmanP": 3.569195893328206e-10
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.12060660092569064,
+      "pearsonP": 2.2754493772362527e-10,
+      "spearmanR": 0.1043075760461883,
+      "spearmanP": 4.267345373817151e-08
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.11376713221348184,
+      "pearsonP": 2.2388965645334247e-09,
+      "spearmanR": -0.05005928397622868,
+      "spearmanP": 0.00868655673679062
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.1133412721413545,
+      "pearsonP": 2.5703025164477103e-09,
+      "spearmanR": 0.0513889415610965,
+      "spearmanP": 0.007061231819785215
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.11265316495488119,
+      "pearsonP": 3.209138394900946e-09,
+      "spearmanR": 0.09545470521754174,
+      "spearmanP": 5.38317150302297e-07
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.10219038168562111,
+      "pearsonP": 7.978953128545416e-08,
+      "spearmanR": 0.05032668865630439,
+      "spearmanP": 0.008335106378301541
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.08110221264802786,
+      "pearsonP": 2.0830968418587545e-05,
+      "spearmanR": 0.07487114361319423,
+      "spearmanP": 8.57045499917475e-05
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": 0.0715187289846328,
+      "pearsonP": 0.00017576153056325793,
+      "spearmanR": 0.08440213781036225,
+      "spearmanP": 9.442439412266551e-06
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.04746605697647984,
+      "pearsonP": 0.012844457609962699,
+      "spearmanR": 0.1088469857265306,
+      "spearmanP": 1.0698096204437578e-08
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_ENERGIA_REDE_PUBLICA",
+      "pearsonR": -0.04312343364749034,
+      "pearsonP": 0.02380879120043442,
+      "spearmanR": -0.06500352347573156,
+      "spearmanP": 0.000651993880958251
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": -0.12502750712571745,
+      "pearsonP": 4.8798315030252236e-11,
+      "spearmanR": -0.06281353598301868,
+      "spearmanP": 0.00099009321032473
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": 0.08620361737740799,
+      "pearsonP": 6.078719838324835e-06,
+      "spearmanR": 0.1972698205566003,
+      "spearmanP": 1.7091392249504604e-25
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": -0.0838595087065945,
+      "pearsonP": 1.0816030291216815e-05,
+      "spearmanR": -0.10728448409303896,
+      "spearmanP": 1.7438428481236013e-08
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": 0.07850050302827535,
+      "pearsonP": 3.8202703486232346e-05,
+      "spearmanR": 0.08205583218050247,
+      "spearmanP": 1.6682198885682697e-05
+    },
+    {
+      "granularidade": "Bairro",
+      "rede": "Privada",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": -0.041614537704964746,
+      "pearsonP": 0.02920940288365691,
+      "spearmanR": -0.09193557382153891,
+      "spearmanP": 1.3953794321551287e-06
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.3227710005312621,
+      "pearsonP": 5.8221154133827945e-130,
+      "spearmanR": 0.33612705491166583,
+      "spearmanP": 1.9177882800980917e-141
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.29819378883451597,
+      "pearsonP": 2.6133981324414548e-110,
+      "spearmanR": 0.2868461500332987,
+      "spearmanP": 7.335612074371195e-102
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.28509516838628235,
+      "pearsonP": 1.363521113971457e-100,
+      "spearmanR": -0.2904720107555707,
+      "spearmanP": 1.6147313984218258e-104
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.261128780772282,
+      "pearsonP": 4.012724848345658e-84,
+      "spearmanR": 0.21670140452620995,
+      "spearmanP": 6.983921624246115e-58
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": 0.25381559565719675,
+      "pearsonP": 1.9934918580186747e-79,
+      "spearmanR": 0.20228700624052662,
+      "spearmanP": 1.6209206745590824e-50
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.23531770972851437,
+      "pearsonP": 3.2302253311382676e-68,
+      "spearmanR": 0.2739616858239567,
+      "spearmanP": 9.841781134714996e-93
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": 0.2032338553473366,
+      "pearsonP": 5.530081669424436e-51,
+      "spearmanR": 0.22530411515194038,
+      "spearmanP": 1.5299501741744727e-62
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.1819192989458245,
+      "pearsonP": 4.924308562768839e-41,
+      "spearmanR": 0.16868006377043798,
+      "spearmanP": 1.93337449374127e-35
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.16648644008243682,
+      "pearsonP": 1.4805553717306845e-34,
+      "spearmanR": 0.14002602765308936,
+      "spearmanP": 7.788338735856211e-25
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.16073282628287927,
+      "pearsonP": 2.704116178106322e-32,
+      "spearmanR": 0.18746879866833202,
+      "spearmanP": 1.639690118698103e-43
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.14697256393410182,
+      "pearsonP": 3.2125341656867086e-27,
+      "spearmanR": 0.15740734300384793,
+      "spearmanP": 5.0291933927268885e-31
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.12584746133727753,
+      "pearsonP": 2.4753292914870244e-20,
+      "spearmanR": 0.15992051107753907,
+      "spearmanP": 5.554716214763819e-32
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.11408808002340595,
+      "pearsonP": 5.751314053093799e-17,
+      "spearmanR": -0.1651569799280493,
+      "spearmanP": 5.016082376809329e-34
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "QT_DESKTOP_ALUNO",
+      "pearsonR": 0.08168439198725526,
+      "pearsonP": 2.1865828398292905e-09,
+      "spearmanR": 0.41113771532100746,
+      "spearmanP": 2.4476662618764787e-217
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.07154617634874957,
+      "pearsonP": 1.617616808775777e-07,
+      "spearmanR": 0.06270423403547415,
+      "spearmanP": 4.435338453895569e-06
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": 0.06918264100157634,
+      "pearsonP": 4.080556605861589e-07,
+      "spearmanR": 0.07694454748377677,
+      "spearmanP": 1.750091202618264e-08
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.06141049634257117,
+      "pearsonP": 6.9575299194487366e-06,
+      "spearmanR": 0.09782107279496743,
+      "spearmanP": 7.471084463323253e-13
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": -0.04567399402767703,
+      "pearsonP": 0.0008325863253691574,
+      "spearmanR": -0.09680614022009094,
+      "spearmanP": 1.2862909494373792e-12
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_MATERIAL_PED_INDIGENA",
+      "pearsonR": 0.04413615432615601,
+      "pearsonP": 0.0012418024115197436,
+      "spearmanR": 0.1053414469136236,
+      "spearmanP": 1.1206223927293807e-14
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": -0.03485426419342259,
+      "pearsonP": 0.010786249855624905,
+      "spearmanR": -0.04902704175407925,
+      "spearmanP": 0.0003340708662463283
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.143095722018926,
+      "pearsonP": 7.191181922449767e-26,
+      "spearmanR": 0.18953837678639177,
+      "spearmanP": 1.899069135477295e-44
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.12651175352306504,
+      "pearsonP": 1.5743807147852765e-20,
+      "spearmanR": 0.17797595602936805,
+      "spearmanP": 2.5825987513588167e-39
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.12311091480991018,
+      "pearsonP": 1.621634530794137e-19,
+      "spearmanR": 0.1598806724633143,
+      "spearmanP": 5.829283590973331e-32
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.08072867572585488,
+      "pearsonP": 3.369263115130106e-09,
+      "spearmanR": 0.02290013349666378,
+      "spearmanP": 0.09399860964417893
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.08001682672839797,
+      "pearsonP": 4.62283399587958e-09,
+      "spearmanR": 0.10474339907891624,
+      "spearmanP": 1.5915645069251532e-14
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.06616612589099348,
+      "pearsonP": 1.2766203982192901e-06,
+      "spearmanR": -0.13423719566066325,
+      "spearmanP": 6.202022543771691e-23
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.06309116483882632,
+      "pearsonP": 3.878076169848676e-06,
+      "spearmanR": 0.0512217589337831,
+      "spearmanP": 0.00017840440296896634
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.060469988458444625,
+      "pearsonP": 9.617396120295048e-06,
+      "spearmanR": 0.01434539971975526,
+      "spearmanP": 0.294184457325755
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.0488878186043959,
+      "pearsonP": 0.0003478201205211029,
+      "spearmanR": -0.028275155838212985,
+      "spearmanP": 0.038650728970745764
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": 0.04362183080309741,
+      "pearsonP": 0.0014171408644593985,
+      "spearmanR": -0.0018182847945037888,
+      "spearmanP": 0.894230814619785
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.04283314871318419,
+      "pearsonP": 0.0017280100057032114,
+      "spearmanR": 0.03689019903712587,
+      "spearmanP": 0.0069690186811150545
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": 0.04069241705035153,
+      "pearsonP": 0.0029141380273264616,
+      "spearmanR": 0.10071899643071086,
+      "spearmanP": 1.5437869192581206e-13
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.040092793243317805,
+      "pearsonP": 0.0033596917944971496,
+      "spearmanR": -0.022693415096562603,
+      "spearmanP": 0.09700483767839266
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.03202219173648465,
+      "pearsonP": 0.019177851577340938,
+      "spearmanR": -0.0035305271696704672,
+      "spearmanP": 0.7962895075103991
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.028123677706116186,
+      "pearsonP": 0.03970513073876495,
+      "spearmanR": 0.058894401657463874,
+      "spearmanP": 1.6319100435946714e-05
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": -0.02758903776671079,
+      "pearsonP": 0.04362376634077334,
+      "spearmanR": 0.053591039495137084,
+      "spearmanP": 8.804249893429128e-05
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": 0.02685556357353016,
+      "pearsonP": 0.04952699563224922,
+      "spearmanR": -0.024537734567925035,
+      "spearmanP": 0.07273921192460377
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.3465759417733358,
+      "pearsonP": 7.806943930529732e-151,
+      "spearmanR": 0.3521589657706871,
+      "spearmanP": 5.313317526170743e-156
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.26379458086633084,
+      "pearsonP": 7.141066193287555e-86,
+      "spearmanR": -0.26523166241098944,
+      "spearmanP": 7.9819640424461285e-87
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.239366866220212,
+      "pearsonP": 1.3693302871827856e-70,
+      "spearmanR": 0.2337417455202939,
+      "spearmanP": 2.633657890836596e-67
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.23779237266623765,
+      "pearsonP": 1.160068881444154e-69,
+      "spearmanR": 0.18957035995501528,
+      "spearmanP": 1.8025103926785303e-44
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": 0.23381304135029446,
+      "pearsonP": 2.3959520199457057e-67,
+      "spearmanR": 0.17406789072551299,
+      "spearmanP": 1.1571334640775858e-37
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.22499559669443928,
+      "pearsonP": 2.2657826844215668e-62,
+      "spearmanR": 0.26681335364153136,
+      "spearmanP": 7.04434888186669e-88
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.2064207111386167,
+      "pearsonP": 1.4241103533057971e-52,
+      "spearmanR": 0.21151692624131688,
+      "spearmanP": 3.602622490897723e-55
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.20132384737739623,
+      "pearsonP": 4.813141393023557e-50,
+      "spearmanR": 0.18892417652739898,
+      "spearmanP": 3.563885771828441e-44
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": 0.2002398946059354,
+      "pearsonP": 1.6273228277006562e-49,
+      "spearmanR": 0.2308614674983476,
+      "spearmanP": 1.1711104443966494e-65
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.17049549178673648,
+      "pearsonP": 3.511390733123746e-36,
+      "spearmanR": 0.19149803886799938,
+      "spearmanP": 2.3244701300767557e-45
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.1638354468450379,
+      "pearsonP": 1.6701461548235736e-33,
+      "spearmanR": 0.1350341093061407,
+      "spearmanP": 3.405844248442273e-23
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.15179533747498133,
+      "pearsonP": 6.046964438564735e-29,
+      "spearmanR": -0.18781606026624215,
+      "spearmanP": 1.1405116677887297e-43
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.1157499900613978,
+      "pearsonP": 2.0143399231811414e-17,
+      "spearmanR": 0.14131592845438906,
+      "spearmanP": 2.8680422992233236e-25
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.1032507169859108,
+      "pearsonP": 3.714625504121155e-14,
+      "spearmanR": 0.07964796028640667,
+      "spearmanP": 5.422652739988983e-09
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "QT_DESKTOP_ALUNO",
+      "pearsonR": 0.08984063299370892,
+      "pearsonP": 4.608772848221287e-11,
+      "spearmanR": 0.4059028546867999,
+      "spearmanP": 2.271750559840386e-211
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": 0.05568252537595425,
+      "pearsonP": 4.600732263700423e-05,
+      "spearmanR": 0.055765332602577364,
+      "spearmanP": 4.482208389630935e-05
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.0496892448488413,
+      "pearsonP": 0.00027706384051682164,
+      "spearmanR": 0.09727640937420688,
+      "spearmanP": 1.0007138990625916e-12
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_MATERIAL_PED_INDIGENA",
+      "pearsonR": 0.049593545558868926,
+      "pearsonP": 0.0002846971279740776,
+      "spearmanR": 0.12226145590498973,
+      "spearmanP": 2.8529056499836555e-19
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.045041886344850166,
+      "pearsonP": 0.0009827028608914894,
+      "spearmanR": -0.026732636647398465,
+      "spearmanP": 0.05055754620842722
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.03030715196042262,
+      "pearsonP": 0.026638932648463558,
+      "spearmanR": -0.019290029734781035,
+      "spearmanP": 0.1583196420337826
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.249299227465431,
+      "pearsonP": 1.375295668261682e-76,
+      "spearmanR": 0.2953537506137596,
+      "spearmanP": 3.8715458529645085e-108
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.19254335396382927,
+      "pearsonP": 7.73001279775652e-46,
+      "spearmanR": 0.19979675591370985,
+      "spearmanP": 2.7274639204488395e-49
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.16725270302717188,
+      "pearsonP": 7.398921915107172e-35,
+      "spearmanR": 0.2082286442750216,
+      "spearmanP": 1.7773444099679424e-53
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.16355381740930328,
+      "pearsonP": 2.184955565225242e-33,
+      "spearmanR": 0.2190475017107932,
+      "spearmanP": 4.016047584595447e-59
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": 0.1414683426625375,
+      "pearsonP": 2.5732498469497115e-25,
+      "spearmanR": 0.10093207564767527,
+      "spearmanP": 1.3718260891625302e-13
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.14058034692087049,
+      "pearsonP": 5.127098764636639e-25,
+      "spearmanR": 0.09643749252319393,
+      "spearmanP": 1.5722196625985671e-12
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.12913923992177728,
+      "pearsonP": 2.485966234037497e-21,
+      "spearmanR": 0.07591284022362627,
+      "spearmanP": 2.7171185205094366e-08
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.12899696454062864,
+      "pearsonP": 2.7499747966448026e-21,
+      "spearmanR": 0.12173049953988722,
+      "spearmanP": 4.1032973913085365e-19
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.12194119871477696,
+      "pearsonP": 3.5636065122325624e-19,
+      "spearmanR": -0.19501591210218097,
+      "spearmanP": 5.329114807203556e-47
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.12058129240162255,
+      "pearsonP": 8.816453735539644e-19,
+      "spearmanR": 0.17207306460953486,
+      "spearmanP": 7.971245427888758e-37
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.1011529824510976,
+      "pearsonP": 1.2134272031983496e-13,
+      "spearmanR": 0.061251168323835314,
+      "spearmanP": 7.3642235832359735e-06
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.09860072637438072,
+      "pearsonP": 4.927693997225174e-13,
+      "spearmanR": -0.08600986947315935,
+      "spearmanP": 2.963053026527846e-10
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.07560226770764412,
+      "pearsonP": 3.0955674077440164e-08,
+      "spearmanR": 0.07554223931095976,
+      "spearmanP": 3.174392631072831e-08
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": 0.07424727837816028,
+      "pearsonP": 5.4353173294378144e-08,
+      "spearmanR": 0.10585719133413506,
+      "spearmanP": 8.355444253392231e-15
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.05689737831570022,
+      "pearsonP": 3.131370286989405e-05,
+      "spearmanR": 0.04173007734456018,
+      "spearmanP": 0.002268506640302356
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_DESKTOP_ALUNO",
+      "pearsonR": 0.053949998966282525,
+      "pearsonP": 7.891011910798205e-05,
+      "spearmanR": 0.3160275692536988,
+      "spearmanP": 2.333689079379615e-124
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": 0.04212155989419937,
+      "pearsonP": 0.0020610856512732574,
+      "spearmanR": 0.025906736542242133,
+      "spearmanP": 0.05814376418844793
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.03418943472911461,
+      "pearsonP": 0.01239640641533788,
+      "spearmanR": -0.03746675502527679,
+      "spearmanP": 0.006134158439085214
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": -0.028453351798343643,
+      "pearsonP": 0.03744089262318724,
+      "spearmanR": 0.05478444803847878,
+      "spearmanP": 6.101861459857201e-05
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.35428467401186103,
+      "pearsonP": 5.373256447167715e-158,
+      "spearmanR": 0.3614906539685538,
+      "spearmanP": 7.106416603109442e-165
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.31689073523546374,
+      "pearsonP": 4.354422913744485e-125,
+      "spearmanR": 0.2965899532427559,
+      "spearmanP": 4.313501648966865e-109
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.29054953636922376,
+      "pearsonP": 1.4153159129068122e-104,
+      "spearmanR": -0.2963318295681493,
+      "spearmanP": 6.761869424669026e-109
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.288648693559939,
+      "pearsonP": 3.542361082728047e-103,
+      "spearmanR": 0.23055920718005585,
+      "spearmanP": 1.7387398291910372e-65
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": 0.26176773446894464,
+      "pearsonP": 1.5343230137086549e-84,
+      "spearmanR": 0.2014442700810719,
+      "spearmanP": 4.2020802277230064e-50
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.2546614784038908,
+      "pearsonP": 5.809922864365713e-80,
+      "spearmanR": 0.2904507070835774,
+      "spearmanP": 1.674280852270699e-104
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": 0.22533034921500233,
+      "pearsonP": 1.4796667887983656e-62,
+      "spearmanR": 0.24658436289938324,
+      "spearmanP": 6.236944844781909e-75
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.19341471177814107,
+      "pearsonP": 2.9671020008264737e-46,
+      "spearmanR": 0.17662329150792694,
+      "spearmanP": 9.625086576349705e-39
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.1876964234032767,
+      "pearsonP": 1.292562933148489e-43,
+      "spearmanR": 0.15070869100312004,
+      "spearmanP": 1.4972142087980839e-28
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.17490712898298344,
+      "pearsonP": 5.134812088146456e-38,
+      "spearmanR": 0.2022064755578959,
+      "spearmanP": 1.7757217538009888e-50
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.1744161795972879,
+      "pearsonP": 8.263449934893126e-38,
+      "spearmanR": 0.1788679461282949,
+      "spearmanP": 1.0497409798344062e-39
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.1449255270312128,
+      "pearsonP": 1.666668663898124e-26,
+      "spearmanR": 0.1740854776600465,
+      "spearmanP": 1.1376463958249677e-37
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.11336121061787863,
+      "pearsonP": 9.056847952399257e-17,
+      "spearmanR": -0.17315432738141198,
+      "spearmanP": 2.789112475223648e-37
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "QT_DESKTOP_ALUNO",
+      "pearsonR": 0.08688064713396311,
+      "pearsonP": 1.9487656621626552e-10,
+      "spearmanR": 0.42301609261471923,
+      "spearmanP": 2.7916846365648983e-231
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.07190874489927199,
+      "pearsonP": 1.399917716656243e-07,
+      "spearmanR": 0.10888246637589614,
+      "spearmanP": 1.3943656126850374e-15
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.07150931041818075,
+      "pearsonP": 1.641502572808665e-07,
+      "spearmanR": 0.05471263691173419,
+      "spearmanP": 6.229396899130037e-05
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": 0.07113031554016316,
+      "pearsonP": 1.9076784266137538e-07,
+      "spearmanR": 0.07342257152046693,
+      "spearmanP": 7.59896060860271e-08
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_MATERIAL_PED_INDIGENA",
+      "pearsonR": 0.04628130568540975,
+      "pearsonP": 0.0007086536535067765,
+      "spearmanR": 0.11789092402063849,
+      "spearmanP": 5.0985278720347e-18
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": -0.04123943535541318,
+      "pearsonP": 0.002553039599624571,
+      "spearmanR": -0.09432438144900064,
+      "spearmanP": 4.743815325620675e-12
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": -0.037646179374347256,
+      "pearsonP": 0.005888735540869272,
+      "spearmanR": -0.05722767755148206,
+      "spearmanP": 2.810541263669097e-05
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.030392614764722894,
+      "pearsonP": 0.026214305139273898,
+      "spearmanR": -0.037942356791599414,
+      "spearmanP": 0.00551007925158947
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": 0.15494622166904162,
+      "pearsonP": 4.2522559653507584e-30,
+      "spearmanR": 0.19705472628205306,
+      "spearmanP": 5.714285723187865e-48
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": -0.1159756481126421,
+      "pearsonP": 1.7568608555107336e-17,
+      "spearmanR": -0.12379095749954185,
+      "spearmanP": 1.022464311644088e-19
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": -0.10264029767508678,
+      "pearsonP": 5.275471580829218e-14,
+      "spearmanR": -0.11413415821789015,
+      "spearmanP": 5.624834704104429e-17
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.0976510840568336,
+      "pearsonP": 8.226057392973891e-13,
+      "spearmanR": 0.1394957664253973,
+      "spearmanP": 1.1828413987721865e-24
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": -0.0875045671102564,
+      "pearsonP": 1.449359824767488e-10,
+      "spearmanR": -0.1157085038879638,
+      "spearmanP": 2.0823485488023687e-17
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": -0.08151566801755665,
+      "pearsonP": 2.36754052473148e-09,
+      "spearmanR": -0.11831628521125305,
+      "spearmanP": 3.8966399997365646e-18
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": -0.07759891497351767,
+      "pearsonP": 1.3267457386319358e-08,
+      "spearmanR": -0.10992881587049236,
+      "spearmanP": 7.480285142101878e-16
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": -0.07079318625174486,
+      "pearsonP": 2.1848035740958003e-07,
+      "spearmanR": -0.08069157524025725,
+      "spearmanP": 3.4254965494960455e-09
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.05298408034793717,
+      "pearsonP": 0.00010579290440002904,
+      "spearmanR": 0.045439553234907414,
+      "spearmanP": 0.0008865781053101518
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": -0.0445558912214631,
+      "pearsonP": 0.0011159501639816738,
+      "spearmanR": -0.06335671815420361,
+      "spearmanP": 3.5301127817394034e-06
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": -0.043349616462521716,
+      "pearsonP": 0.0015180826843373503,
+      "spearmanR": -0.10686953316256664,
+      "spearmanP": 4.624438245339382e-15
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.043189957848121144,
+      "pearsonP": 0.001580326117615132,
+      "spearmanR": 0.02755769026638745,
+      "spearmanP": 0.04386332388548489
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_MATERIAL_PED_INDIGENA",
+      "pearsonR": -0.03633520329654451,
+      "pearsonP": 0.007867610757350003,
+      "spearmanR": 0.0021085254719793067,
+      "spearmanP": 0.8774717076923335
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.2727444555942483,
+      "pearsonP": 6.764207520732725e-92,
+      "spearmanR": 0.27958117690708156,
+      "spearmanP": 1.1808739677098421e-96
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.2662877616279694,
+      "pearsonP": 1.581137245654192e-87,
+      "spearmanR": -0.24950451807348253,
+      "spearmanP": 9.93716360459107e-77
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.25796408508866664,
+      "pearsonP": 4.510916525416253e-82,
+      "spearmanR": 0.2835626605260514,
+      "spearmanP": 1.7300136843226341e-99
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.2535631346744339,
+      "pearsonP": 2.877607584166907e-79,
+      "spearmanR": 0.21762252858809314,
+      "spearmanP": 2.2629690682717218e-58
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": 0.23843831168873258,
+      "pearsonP": 4.8373269312093855e-70,
+      "spearmanR": 0.19786493574110203,
+      "spearmanP": 2.290345355324e-48
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.19797798773050315,
+      "pearsonP": 2.021003848327506e-48,
+      "spearmanR": 0.2502951488689541,
+      "spearmanP": 3.209462066834049e-77
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.1892687751232371,
+      "pearsonP": 2.478456823936356e-44,
+      "spearmanR": 0.20670636790327782,
+      "spearmanP": 1.0228019693652853e-52
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.16684333127532286,
+      "pearsonP": 1.0651436331903134e-34,
+      "spearmanR": 0.1560582936685411,
+      "spearmanP": 1.6167472294400363e-30
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": 0.15873185285555452,
+      "pearsonP": 1.581897113713387e-31,
+      "spearmanR": 0.19253686880649487,
+      "spearmanP": 7.637706317396037e-46
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.14013370326446772,
+      "pearsonP": 7.167762353019083e-25,
+      "spearmanR": 0.12378108662546013,
+      "spearmanP": 1.0213416476534122e-19
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.13202881683129902,
+      "pearsonP": 3.095938662391226e-22,
+      "spearmanR": -0.16110600220302526,
+      "spearmanP": 1.9402114808491343e-32
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.1146684485117787,
+      "pearsonP": 3.993929250063739e-17,
+      "spearmanR": 0.15594153827170462,
+      "spearmanP": 1.7878089175926407e-30
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.10401387424759423,
+      "pearsonP": 2.405114201802343e-14,
+      "spearmanR": 0.13483828827456878,
+      "spearmanP": 3.9386909323940484e-23
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "QT_DESKTOP_ALUNO",
+      "pearsonR": 0.08427598876235164,
+      "pearsonP": 6.666702974958583e-10,
+      "spearmanR": 0.4099494322643629,
+      "spearmanP": 5.6592471645290436e-216
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.0727310508318921,
+      "pearsonP": 1.0060453535310575e-07,
+      "spearmanR": 0.0724038688864771,
+      "spearmanP": 1.1478717302168571e-07
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": 0.046334034681415025,
+      "pearsonP": 0.000698744725116005,
+      "spearmanR": 0.06024401211224801,
+      "spearmanP": 1.0363583098145278e-05
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.037022404249988775,
+      "pearsonP": 0.006763883512080347,
+      "spearmanR": 0.07689735765662538,
+      "spearmanP": 1.785638025900989e-08
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": -0.028143930550520863,
+      "pearsonP": 0.039544295102406465,
+      "spearmanR": -0.062014922639781526,
+      "spearmanP": 5.6438620354326245e-06
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT",
+      "infraestrutura": "IN_MATERIAL_PED_INDIGENA",
+      "pearsonR": 0.027837537651727896,
+      "pearsonP": 0.041744420916671715,
+      "spearmanR": 0.08892147990274317,
+      "spearmanP": 7.24792087984673e-11
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.25019992089430315,
+      "pearsonP": 3.7994542089101114e-77,
+      "spearmanR": 0.27566560811396984,
+      "spearmanP": 6.778940594582914e-94
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.24499546254328666,
+      "pearsonP": 5.978976740200188e-74,
+      "spearmanR": 0.23114618082719787,
+      "spearmanP": 8.29203802815984e-66
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.21947537364383185,
+      "pearsonP": 2.366457842743225e-59,
+      "spearmanR": 0.16459987279472,
+      "spearmanP": 8.455157989018259e-34
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": 0.21206099670721648,
+      "pearsonP": 1.929061875332557e-55,
+      "spearmanR": 0.156249864752932,
+      "spearmanP": 1.387739761981494e-30
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.19342953671944246,
+      "pearsonP": 2.976468768920595e-46,
+      "spearmanR": -0.16629719633723425,
+      "spearmanP": 1.7875580186954791e-34
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.18475901252240867,
+      "pearsonP": 2.766882504006013e-42,
+      "spearmanR": 0.23171959008628154,
+      "spearmanP": 3.908293079854493e-66
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.1787803889130868,
+      "pearsonP": 1.1640016921537556e-39,
+      "spearmanR": 0.22369640333808083,
+      "spearmanP": 1.2071153835086842e-61
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.15326162414459538,
+      "pearsonP": 1.781571090918476e-29,
+      "spearmanR": 0.13978855786280361,
+      "spearmanP": 9.444956502263004e-25
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.15064780920027038,
+      "pearsonP": 1.5932468282651951e-28,
+      "spearmanR": 0.1074110551430895,
+      "spearmanP": 3.3622963939355376e-15
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.1353564908085712,
+      "pearsonP": 2.704894030303698e-23,
+      "spearmanR": 0.16218959789102988,
+      "spearmanP": 7.465538092230414e-33
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": 0.1306012527204133,
+      "pearsonP": 8.754455245423823e-22,
+      "spearmanR": 0.15429467287127507,
+      "spearmanP": 7.414706149029959e-30
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.1172487316717137,
+      "pearsonP": 7.773609107613946e-18,
+      "spearmanR": -0.17966623734228226,
+      "spearmanP": 4.818555728212992e-40
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.09292094872613048,
+      "pearsonP": 9.82157796103247e-12,
+      "spearmanR": 0.07270263731458342,
+      "spearmanP": 1.0204465456398504e-07
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.08362971616755326,
+      "pearsonP": 9.027557606337217e-10,
+      "spearmanR": 0.10678506771850145,
+      "spearmanP": 4.859451820958793e-15
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_DESKTOP_ALUNO",
+      "pearsonR": 0.07124360066824528,
+      "pearsonP": 1.8288358480770474e-07,
+      "spearmanR": 0.3763457067523247,
+      "spearmanP": 1.3564557276267355e-179
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": 0.04046345223327679,
+      "pearsonP": 0.0030774864039580284,
+      "spearmanR": 0.03702779308483883,
+      "spearmanP": 0.006761006160378411
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.03594699215122784,
+      "pearsonP": 0.008556453476372848,
+      "spearmanR": -0.0443579055992818,
+      "spearmanP": 0.001174354359745605
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.2077130410603102,
+      "pearsonP": 3.1731204683386676e-53,
+      "spearmanR": -0.18260391492468575,
+      "spearmanP": 2.460144122113128e-41
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.1907492252216319,
+      "pearsonP": 5.164320083918099e-45,
+      "spearmanR": 0.18792386210304907,
+      "spearmanP": 1.0188095017795332e-43
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.1883224499591198,
+      "pearsonP": 6.70865157887162e-44,
+      "spearmanR": 0.2053490127955844,
+      "spearmanP": 4.908452490822146e-52
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.1713125789325421,
+      "pearsonP": 1.6193222433100944e-36,
+      "spearmanR": 0.19530824382157924,
+      "spearmanP": 3.800096537394176e-47
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": 0.16241431908247164,
+      "pearsonP": 6.0205448186367965e-33,
+      "spearmanR": 0.14112856467407772,
+      "spearmanP": 3.317859853031437e-25
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": 0.1612465150991309,
+      "pearsonP": 1.7118745964278214e-32,
+      "spearmanR": 0.16275697634465455,
+      "spearmanP": 4.424096498737692e-33
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.15191896719845696,
+      "pearsonP": 5.451993393376105e-29,
+      "spearmanR": 0.13998784988937557,
+      "spearmanP": 8.020916619154302e-25
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.1509061718889291,
+      "pearsonP": 1.270408985817045e-28,
+      "spearmanR": 0.12281335042621896,
+      "spearmanP": 1.9674797047797676e-19
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.12894695125625005,
+      "pearsonP": 2.8251724044372834e-21,
+      "spearmanR": 0.16678188528294455,
+      "spearmanP": 1.127337945408356e-34
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": 0.10716210455426753,
+      "pearsonP": 3.8708928630870166e-15,
+      "spearmanR": 0.1156321908735308,
+      "spearmanP": 2.1709310022332733e-17
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.08761590662937521,
+      "pearsonP": 1.3681141876151157e-10,
+      "spearmanR": -0.1286670105003228,
+      "spearmanP": 3.444537413326921e-21
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": 0.08352586253296074,
+      "pearsonP": 9.436767201562704e-10,
+      "spearmanR": 0.08257474234115304,
+      "spearmanP": 1.45981136489026e-09
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": -0.07594639877911583,
+      "pearsonP": 2.6710474717829752e-08,
+      "spearmanR": -0.04828669060726186,
+      "spearmanP": 0.0004107131645142536
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.07130293322228605,
+      "pearsonP": 1.7816436283541062e-07,
+      "spearmanR": 0.1075514580248333,
+      "spearmanP": 3.0765724933453214e-15
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": -0.06081977078406989,
+      "pearsonP": 8.520723913054992e-06,
+      "spearmanR": -0.028950810352387717,
+      "spearmanP": 0.03421589052802959
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.058058124730219894,
+      "pearsonP": 2.1455664209013596e-05,
+      "spearmanR": 0.03770469201418157,
+      "spearmanP": 0.005812120426245721
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_DESKTOP_ALUNO",
+      "pearsonR": 0.057341195226797086,
+      "pearsonP": 2.70928174224443e-05,
+      "spearmanR": 0.28177171072971746,
+      "spearmanP": 3.301402065205604e-98
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.05403705385247425,
+      "pearsonP": 7.671558998029147e-05,
+      "spearmanR": 0.06427985189471312,
+      "spearmanP": 2.5332678485315274e-06
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": 0.2634765235471231,
+      "pearsonP": 1.2001853558899937e-85,
+      "spearmanR": 0.3095874376827247,
+      "spearmanP": 3.6515293102007724e-119
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": -0.18212499058335999,
+      "pearsonP": 4.067107052665503e-41,
+      "spearmanR": -0.18905269035403854,
+      "spearmanP": 3.1701131917574895e-44
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": -0.177288524810487,
+      "pearsonP": 5.087652508289734e-39,
+      "spearmanR": -0.20162952316409877,
+      "spearmanP": 3.481247614953571e-50
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": -0.17283488785542253,
+      "pearsonP": 3.847634366629351e-37,
+      "spearmanR": -0.204129477834564,
+      "spearmanP": 2.0327712317839822e-51
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "TP_AEE",
+      "pearsonR": -0.1620390901669172,
+      "pearsonP": 8.54373557829912e-33,
+      "spearmanR": -0.17348009725504776,
+      "spearmanP": 2.070789865058101e-37
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.13793006517702078,
+      "pearsonP": 3.90812768662017e-24,
+      "spearmanR": 0.193299827963567,
+      "spearmanP": 3.4236921439734367e-46
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": -0.13769283232809346,
+      "pearsonP": 4.678340244258424e-24,
+      "spearmanR": -0.1606651043916373,
+      "spearmanP": 2.90985505402134e-32
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": -0.1276417773437565,
+      "pearsonP": 7.151474984207938e-21,
+      "spearmanR": -0.16421919766341467,
+      "spearmanP": 1.1953317218181725e-33
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": -0.122837788378798,
+      "pearsonP": 1.9502430566511724e-19,
+      "spearmanR": -0.1444259206271071,
+      "spearmanP": 2.5084751281202028e-26
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": -0.10548314447218844,
+      "pearsonP": 1.0381996925756885e-14,
+      "spearmanR": -0.12244106677657744,
+      "spearmanP": 2.5478169966853246e-19
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": -0.06465183940138802,
+      "pearsonP": 2.220135310346755e-06,
+      "spearmanR": -0.034329849446655604,
+      "spearmanP": 0.01204133687385208
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": 0.06163121035578207,
+      "pearsonP": 6.459947342787509e-06,
+      "spearmanR": 0.030010065110231177,
+      "spearmanP": 0.028176281842828808
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": -0.052607333491207026,
+      "pearsonP": 0.00011845521967047818,
+      "spearmanR": -0.017309603361431176,
+      "spearmanP": 0.20559581400437962
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_ENERGIA_REDE_PUBLICA",
+      "pearsonR": -0.046575203191186215,
+      "pearsonP": 0.0006558085238621796,
+      "spearmanR": -0.03781342434623436,
+      "spearmanP": 0.0056766315961966855
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_MATERIAL_PED_INDIGENA",
+      "pearsonR": -0.0445508068547962,
+      "pearsonP": 0.0011174158022797278,
+      "spearmanR": -0.02095085182814705,
+      "spearmanP": 0.12550034847409275
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": -0.042694310673943296,
+      "pearsonP": 0.0017888276821234927,
+      "spearmanR": -0.07281505288116631,
+      "spearmanP": 9.751362630883852e-08
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": -0.03500231794008994,
+      "pearsonP": 0.010462828747168581,
+      "spearmanR": -0.05246340313005751,
+      "spearmanP": 0.0001236595807244752
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "QT_DESKTOP_ALUNO",
+      "pearsonR": -0.034623284145455374,
+      "pearsonP": 0.01132828620322872,
+      "spearmanR": -0.22599227343913855,
+      "spearmanP": 6.527982589244015e-63
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Pública",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.027720129203745503,
+      "pearsonP": 0.04263390142055842,
+      "spearmanR": 0.009532851771337336,
+      "spearmanP": 0.48576792542937874
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.40905230186551855,
+      "pearsonP": 1.3154007707001688e-52,
+      "spearmanR": 0.3825419485637264,
+      "spearmanP": 1.0670695668010388e-45
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.38861681286233063,
+      "pearsonP": 3.164259000141745e-47,
+      "spearmanR": 0.26719170732941305,
+      "spearmanP": 2.7784747499844105e-22
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.2755135463972235,
+      "pearsonP": 1.21077186814183e-23,
+      "spearmanR": 0.07952901144624464,
+      "spearmanP": 0.00449060801193786
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.26148140476468257,
+      "pearsonP": 2.23971383444414e-21,
+      "spearmanR": -0.07627841132228505,
+      "spearmanP": 0.006430472833268339
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.20169815561677942,
+      "pearsonP": 3.599116232966322e-13,
+      "spearmanR": 0.0327283200348586,
+      "spearmanP": 0.2428868926045915
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.19248022972924156,
+      "pearsonP": 4.176202439766191e-12,
+      "spearmanR": 0.16893810230489423,
+      "spearmanP": 1.2786315616493972e-09
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.17054988863237497,
+      "pearsonP": 8.852723024000824e-10,
+      "spearmanR": 0.12300491831528096,
+      "spearmanP": 1.0598809009968918e-05
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": -0.16550282450976825,
+      "pearsonP": 2.7666181983787388e-09,
+      "spearmanR": -0.06732693688616213,
+      "spearmanP": 0.016198014688935863
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.14457807974793432,
+      "pearsonP": 2.1639895212505604e-07,
+      "spearmanR": 0.07800405894390874,
+      "spearmanP": 0.005322850964799162
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.13147354173574502,
+      "pearsonP": 2.472311418797277e-06,
+      "spearmanR": 0.1545006962067715,
+      "spearmanP": 2.9447305010499506e-08
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_ENERGIA_REDE_PUBLICA",
+      "pearsonR": 0.09099333662226244,
+      "pearsonP": 0.0011432425423576905,
+      "spearmanR": 0.046662515224969926,
+      "spearmanP": 0.0958214091414986
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.09022061668911713,
+      "pearsonP": 0.0012599940610946475,
+      "spearmanR": -0.01613251360730182,
+      "spearmanP": 0.5649407490004178
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": -0.0786435249744859,
+      "pearsonP": 0.004958249623967293,
+      "spearmanR": -0.10888614758092613,
+      "spearmanP": 9.788001768398925e-05
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.06311455128505178,
+      "pearsonP": 0.024216500593348407,
+      "spearmanR": -0.05412325817322039,
+      "spearmanP": 0.05334622994910533
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.13682173461914227,
+      "pearsonP": 9.400051287467723e-07,
+      "spearmanR": -0.06192980951528137,
+      "spearmanP": 0.027015739762896607
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.13054153673827132,
+      "pearsonP": 2.9150179090027284e-06,
+      "spearmanR": 0.16968629307752822,
+      "spearmanP": 1.0784944842783183e-09
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.11924301734625611,
+      "pearsonP": 1.964478586440537e-05,
+      "spearmanR": 0.1448431534453699,
+      "spearmanP": 2.0551802198465663e-07
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.08625523021116356,
+      "pearsonP": 0.002051639291473989,
+      "spearmanR": 0.10723007864788543,
+      "spearmanP": 0.0001249580022242878
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH_std",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": -0.0713996604795239,
+      "pearsonP": 0.01076511060197814,
+      "spearmanR": -0.09424876192423004,
+      "spearmanP": 0.0007528943165690888
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": 0.06107543244487291,
+      "pearsonP": 0.029203680932600118,
+      "spearmanR": 0.11759151311152091,
+      "spearmanP": 2.5610634858282674e-05
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CH_std",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": -0.05544627565580215,
+      "pearsonP": 0.047769981954673975,
+      "spearmanR": 0.00912877311592713,
+      "spearmanP": 0.7446895796332567
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.39800270627847006,
+      "pearsonP": 1.1899727544615846e-49,
+      "spearmanR": 0.2871168760411035,
+      "spearmanP": 1.2755175039977456e-25
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.3943461104176708,
+      "pearsonP": 1.0703203588641691e-48,
+      "spearmanR": 0.3689007779676136,
+      "spearmanP": 2.2044736404732084e-42
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.2656828319633448,
+      "pearsonP": 4.846830436165323e-22,
+      "spearmanR": 0.09478723625254883,
+      "spearmanP": 0.0007017509936072765
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.24918880825423662,
+      "pearsonP": 1.6865586956373245e-19,
+      "spearmanR": -0.0743264559137143,
+      "spearmanP": 0.007929541200890624
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.18107278330209908,
+      "pearsonP": 7.358581383909666e-11,
+      "spearmanR": 0.04436463253454816,
+      "spearmanP": 0.1133394196126669
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.16941768891727996,
+      "pearsonP": 1.1465585643467773e-09,
+      "spearmanR": 0.14217097091309253,
+      "spearmanP": 3.442534257271967e-07
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": -0.13916383375418573,
+      "pearsonP": 6.083065042651993e-07,
+      "spearmanR": -0.07169749627873817,
+      "spearmanP": 0.01044020329242
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": -0.13635696045874376,
+      "pearsonP": 1.0239247076391092e-06,
+      "spearmanR": -0.15916006107837125,
+      "spearmanP": 1.103269790361158e-08
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.1329293197843454,
+      "pearsonP": 1.9071474008606504e-06,
+      "spearmanR": 0.09261792636219725,
+      "spearmanP": 0.0009296436008589468
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.13049697347380157,
+      "pearsonP": 2.9379848429347343e-06,
+      "spearmanR": 0.15519717723217505,
+      "spearmanP": 2.547494377310261e-08
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.12491642214764022,
+      "pearsonP": 7.692570221205586e-06,
+      "spearmanR": 0.06668420119093901,
+      "spearmanP": 0.017246138812615962
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.11421626016573373,
+      "pearsonP": 4.356345067805642e-05,
+      "spearmanR": -0.0024916173096495124,
+      "spearmanP": 0.9291761593502175
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_ENERGIA_REDE_PUBLICA",
+      "pearsonR": 0.10369988277527475,
+      "pearsonP": 0.0002079163166367273,
+      "spearmanR": 0.058476962145438516,
+      "spearmanP": 0.03681733290728952
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.07189124889426633,
+      "pearsonP": 0.01023354664330917,
+      "spearmanR": -0.016007781852539964,
+      "spearmanP": 0.5679534856453518
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": -0.054982764537766675,
+      "pearsonP": 0.049665162290669966,
+      "spearmanR": -0.08153939119907302,
+      "spearmanP": 0.003573612920961431
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.21526141135915894,
+      "pearsonP": 7.842663777100767e-15,
+      "spearmanR": 0.22730576995770235,
+      "spearmanP": 2.0994797756272458e-16
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.1932409627764683,
+      "pearsonP": 3.4267950099401634e-12,
+      "spearmanR": 0.2254579166112175,
+      "spearmanP": 3.7095347450470925e-16
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.15207653369547047,
+      "pearsonP": 4.8517617114267986e-08,
+      "spearmanR": 0.010518527063761845,
+      "spearmanP": 0.7074905120022252
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.1409211932676418,
+      "pearsonP": 4.367758590269787e-07,
+      "spearmanR": 0.16281406483234664,
+      "spearmanP": 5.005844024828619e-09
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.1383561349522442,
+      "pearsonP": 7.073840138368227e-07,
+      "spearmanR": 0.036688602168406526,
+      "spearmanP": 0.19046628694413836
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.08767530935343429,
+      "pearsonP": 0.0017267606017264251,
+      "spearmanR": -0.013981310620243553,
+      "spearmanP": 0.6179432855166587
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "CN_std",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": -0.07586695496485152,
+      "pearsonP": 0.006723417480537872,
+      "spearmanR": -0.14292007324624498,
+      "spearmanP": 2.9818561644898133e-07
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.42991976819979033,
+      "pearsonP": 1.67376314464854e-58,
+      "spearmanR": 0.3019195987348481,
+      "spearmanP": 2.7851835818891848e-28
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.4225460720060956,
+      "pearsonP": 2.2621737994697783e-56,
+      "spearmanR": 0.3984263931991029,
+      "spearmanP": 9.209230972667348e-50
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.2939954176370621,
+      "pearsonP": 7.740085248804404e-27,
+      "spearmanR": 0.08777210238237003,
+      "spearmanP": 0.0017064369430406276
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.2619973863891272,
+      "pearsonP": 1.8586554577061427e-21,
+      "spearmanR": -0.05368738353371564,
+      "spearmanP": 0.05529830130230939
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.22466304312646143,
+      "pearsonP": 4.731393080586673e-16,
+      "spearmanR": 0.19909771647446933,
+      "spearmanP": 7.274289489902562e-13
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.21439924532709245,
+      "pearsonP": 1.0081056765772965e-14,
+      "spearmanR": 0.02775809493689184,
+      "spearmanP": 0.3219879747758068
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.18068107161196517,
+      "pearsonP": 8.094493524908996e-11,
+      "spearmanR": 0.12334658712466683,
+      "spearmanP": 1.0012162232398058e-05
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": -0.16825665692179825,
+      "pearsonP": 1.4920755291082586e-09,
+      "spearmanR": -0.049384193730088094,
+      "spearmanP": 0.07794866837714527
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.14904560445310533,
+      "pearsonP": 8.959072727458883e-08,
+      "spearmanR": 0.08576206977810098,
+      "spearmanP": 0.002176968555624567
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.14652243127896158,
+      "pearsonP": 1.47902535007386e-07,
+      "spearmanR": 0.16472959738111373,
+      "spearmanP": 3.2842974722169255e-09
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": -0.13223401363103796,
+      "pearsonP": 2.159581867509448e-06,
+      "spearmanR": -0.18698223249919987,
+      "spearmanP": 1.7026184755059377e-11
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.09609922192684632,
+      "pearsonP": 0.0005903320411170147,
+      "spearmanR": -0.012000510265878415,
+      "spearmanP": 0.6685790092196122
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_ENERGIA_REDE_PUBLICA",
+      "pearsonR": 0.0944179778753251,
+      "pearsonP": 0.0007364615116787826,
+      "spearmanR": 0.07110440304676925,
+      "spearmanP": 0.01109603633619547
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.07602170820627918,
+      "pearsonP": 0.0066118605793173465,
+      "spearmanR": -0.03077508624810578,
+      "spearmanP": 0.2721727730690122
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": -0.11526683778681711,
+      "pearsonP": 3.698171617651149e-05,
+      "spearmanR": -0.1344595078143705,
+      "spearmanP": 1.4474942982033658e-06
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.07669864868560347,
+      "pearsonP": 0.006143166144609587,
+      "spearmanR": 0.12327650345307976,
+      "spearmanP": 1.0129911833727008e-05
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": -0.07045089058952342,
+      "pearsonP": 0.011860779455067897,
+      "spearmanR": -0.12582089542025435,
+      "spearmanP": 6.599372836805762e-06
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_ENERGIA_REDE_PUBLICA",
+      "pearsonR": -0.06393791519039027,
+      "pearsonP": 0.022422283132562684,
+      "spearmanR": -0.13045590618668637,
+      "spearmanP": 2.9593034805360504e-06
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": -0.056275943224967234,
+      "pearsonP": 0.04452924258911416,
+      "spearmanR": -0.05037686198038358,
+      "spearmanP": 0.07214670917344106
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.05557529046961923,
+      "pearsonP": 0.04725340465538175,
+      "spearmanR": 0.08253971813215474,
+      "spearmanP": 0.003183911331587727
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "LC_std",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.055385450417431,
+      "pearsonP": 0.04801516680748116,
+      "spearmanR": 0.01861456329031705,
+      "spearmanP": 0.5066400963221289
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.4182596967538789,
+      "pearsonP": 3.7072405011759635e-55,
+      "spearmanR": 0.3139706466379619,
+      "spearmanP": 1.4500832915458532e-30
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.40217055100154464,
+      "pearsonP": 9.407463268493166e-51,
+      "spearmanR": 0.37452560641042604,
+      "spearmanP": 9.897922171148143e-44
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.2688955574354587,
+      "pearsonP": 1.4759260779457278e-22,
+      "spearmanR": -0.08102143662707183,
+      "spearmanP": 0.003791986607660502
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.25030287263790335,
+      "pearsonP": 1.1509449270113042e-19,
+      "spearmanR": 0.08960553991637953,
+      "spearmanP": 0.0013606816209802302
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.1851627894761186,
+      "pearsonP": 2.6857862416382278e-11,
+      "spearmanR": 0.037391541880064466,
+      "spearmanP": 0.1821048545102151
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.1732947791401567,
+      "pearsonP": 4.69490089981314e-10,
+      "spearmanR": 0.15210700516667697,
+      "spearmanP": 4.8216390493416615e-08
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": -0.16207313407727597,
+      "pearsonP": 5.884365331901906e-09,
+      "spearmanR": -0.08791420466926318,
+      "spearmanP": 0.0016769975890343193
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.13933860790058325,
+      "pearsonP": 5.886991341939745e-07,
+      "spearmanR": 0.09331200262575044,
+      "spearmanP": 0.0008501840038726626
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": -0.12646177161446312,
+      "pearsonP": 5.91640715042581e-06,
+      "spearmanR": -0.1511039941227906,
+      "spearmanP": 5.914861494137412e-08
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.11765321593057769,
+      "pearsonP": 2.5359717382111698e-05,
+      "spearmanR": 0.05998381318702354,
+      "spearmanP": 0.03221937284900234
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+      "pearsonR": 0.11549475251230618,
+      "pearsonP": 3.5684089825014965e-05,
+      "spearmanR": 0.14325137191692106,
+      "spearmanP": 2.7976363564242543e-07
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_ENERGIA_REDE_PUBLICA",
+      "pearsonR": 0.09023505637245034,
+      "pearsonP": 0.0012577150567092787,
+      "spearmanR": 0.052104879005168935,
+      "spearmanP": 0.06289189959869315
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": 0.0832268906622919,
+      "pearsonP": 0.002939063377329492,
+      "spearmanR": -0.011596265872528003,
+      "spearmanP": 0.6791104619763216
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.07658564730232144,
+      "pearsonP": 0.0062192652691710655,
+      "spearmanR": -0.020547272541825413,
+      "spearmanP": 0.46353272574105897
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": -0.0549721251985679,
+      "pearsonP": 0.04970939288106391,
+      "spearmanR": -0.0868802428012327,
+      "spearmanP": 0.0019023069211672656
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.2596452935386202,
+      "pearsonP": 4.334623151138606e-21,
+      "spearmanR": 0.2416876216292297,
+      "spearmanP": 2.1040938887588127e-18
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.24607481208458773,
+      "pearsonP": 4.858521165497052e-19,
+      "spearmanR": -0.02323678841059018,
+      "spearmanP": 0.4070945495565085
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.21867185930183536,
+      "pearsonP": 2.8744152266540425e-15,
+      "spearmanR": 0.06031206853509057,
+      "spearmanP": 0.03128570030213979
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.21261469949755474,
+      "pearsonP": 1.6893789296118754e-14,
+      "spearmanR": 0.20892489228919,
+      "spearmanP": 4.842042650654394e-14
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.21107577947511216,
+      "pearsonP": 2.6271650769248098e-14,
+      "spearmanR": 0.21956779720448324,
+      "spearmanP": 2.202003839270552e-15
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.1521405509622247,
+      "pearsonP": 4.7886866528007544e-08,
+      "spearmanR": -0.013556925249876237,
+      "spearmanP": 0.6286509788733814
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.12407286000406526,
+      "pearsonP": 8.866374874152726e-06,
+      "spearmanR": -0.07214231157666258,
+      "spearmanP": 0.009971176839971074
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": -0.11382899484212924,
+      "pearsonP": 4.625845070716994e-05,
+      "spearmanR": 0.03149763285435396,
+      "spearmanP": 0.26106980737326485
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.06330949655087258,
+      "pearsonP": 0.02378081846425146,
+      "spearmanR": 0.04976394410745436,
+      "spearmanP": 0.07568579921824006
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_AGUA_POTAVEL",
+      "pearsonR": 0.05855689274233061,
+      "pearsonP": 0.03656011979052185,
+      "spearmanR": -0.05613057528737841,
+      "spearmanP": 0.0450832903114964
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": 0.057826243119773885,
+      "pearsonP": 0.038969167730523335,
+      "spearmanR": 0.18549264393423473,
+      "spearmanP": 2.4736117573290006e-11
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "MT_std",
+      "infraestrutura": "IN_BIBLIOTECA",
+      "pearsonR": -0.05756802855355963,
+      "pearsonP": 0.03985214330846958,
+      "spearmanR": -0.13501503845844381,
+      "spearmanP": 1.3086055806500308e-06
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_DOC_BAS",
+      "pearsonR": 0.301173939243333,
+      "pearsonP": 3.82520514337904e-28,
+      "spearmanR": 0.2596619253981476,
+      "spearmanP": 4.30887617638372e-21
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_ALIMENTACAO",
+      "pearsonR": -0.2962935761981584,
+      "pearsonP": 2.9829236862052186e-27,
+      "spearmanR": -0.161385951893984,
+      "spearmanP": 6.8318949161281285e-09
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": 0.2597463231453941,
+      "pearsonP": 4.180534640849413e-21,
+      "spearmanR": 0.13266366226054147,
+      "spearmanP": 2.000058742266863e-06
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": -0.23381385250030903,
+      "pearsonP": 2.7167133677847054e-17,
+      "spearmanR": -0.19663344950281206,
+      "spearmanP": 1.4046071769828682e-12
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_LIXO_SERVICO_COLETA",
+      "pearsonR": 0.21158055505487933,
+      "pearsonP": 2.2737972017226487e-14,
+      "spearmanR": 0.08116731931618416,
+      "spearmanP": 0.0037292873701546786
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.19485510735527922,
+      "pearsonP": 2.246313399785868e-12,
+      "spearmanR": 0.15919810132831577,
+      "spearmanP": 1.094331430398852e-08
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": -0.1886910768710702,
+      "pearsonP": 1.105038359458245e-11,
+      "spearmanR": -0.17728021541248418,
+      "spearmanP": 1.8354127086716465e-10
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_QUADRA_ESPORTES",
+      "pearsonR": 0.1747370246634073,
+      "pearsonP": 3.350488624597475e-10,
+      "spearmanR": 0.06827675740349642,
+      "spearmanP": 0.01475152118297847
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.14043580879909903,
+      "pearsonP": 4.788168787165602e-07,
+      "spearmanR": 0.11087959449712592,
+      "spearmanP": 7.261543550866576e-05
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_BANHEIRO_PNE",
+      "pearsonR": 0.12924987016891593,
+      "pearsonP": 3.6557745654802086e-06,
+      "spearmanR": 0.08228424079352833,
+      "spearmanP": 0.0032795777697578327
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_SALA_LEITURA",
+      "pearsonR": 0.09833045790081098,
+      "pearsonP": 0.0004378042905356482,
+      "spearmanR": 0.07823792390081948,
+      "spearmanP": 0.005186794158483524
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": -0.09817636122580134,
+      "pearsonP": 0.0004470247154681002,
+      "spearmanR": -0.11465809328244828,
+      "spearmanP": 4.067049904202327e-05
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_EQUIP_MULTIMIDIA",
+      "pearsonR": 0.08569468337442585,
+      "pearsonP": 0.0021946278344636377,
+      "spearmanR": 0.13283543183256005,
+      "spearmanP": 1.939500381077036e-06
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": -0.0829333385075634,
+      "pearsonP": 0.0030414796896994674,
+      "spearmanR": -0.069334524845728,
+      "spearmanP": 0.013275574350027443
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO",
+      "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+      "pearsonR": 0.06803688510246243,
+      "pearsonP": 0.015105664019656219,
+      "spearmanR": 0.032227166361642,
+      "spearmanP": 0.2501809393169068
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "QT_MAT_EJA",
+      "pearsonR": 0.1480568589973199,
+      "pearsonP": 1.0914719584086088e-07,
+      "spearmanR": 0.25193833884347344,
+      "spearmanP": 6.545641906105942e-20
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "QT_MAT_BAS",
+      "pearsonR": 0.12360008912984795,
+      "pearsonP": 9.597055697964773e-06,
+      "spearmanR": 0.1737163463179176,
+      "spearmanP": 4.255267541282418e-10
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+      "pearsonR": -0.12214876480558258,
+      "pearsonP": 1.2216260348875806e-05,
+      "spearmanR": -0.15940101676344898,
+      "spearmanP": 1.0478270032846968e-08
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+      "pearsonR": 0.09148495661484354,
+      "pearsonP": 0.0010742502852619732,
+      "spearmanR": 0.12058876696271369,
+      "spearmanP": 1.5786315558241756e-05
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "QT_MAT_PROF_TEC",
+      "pearsonR": 0.08499997864078268,
+      "pearsonP": 0.0023844806323049593,
+      "spearmanR": 0.16830803258860108,
+      "spearmanP": 1.47484249456042e-09
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+      "pearsonR": 0.0775381733637374,
+      "pearsonP": 0.005603526826011454,
+      "spearmanR": 0.05978527768386411,
+      "spearmanP": 0.03279557199331107
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_ACESSIBILIDADE_INEXISTENTE",
+      "pearsonR": 0.062458572062182666,
+      "pearsonP": 0.025733683227971586,
+      "spearmanR": 0.10534474966694474,
+      "spearmanP": 0.0001643235571775639
+    },
+    {
+      "granularidade": "Município",
+      "rede": "Privada",
+      "disciplina": "REDACAO_std",
+      "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+      "pearsonR": -0.058973591476524055,
+      "pearsonP": 0.0352438349611193,
+      "spearmanR": -0.12346316781246776,
+      "spearmanP": 9.819178995373594e-06
+    }
+  ],
+  "top10": {
+    "Bairro": [
+      {
+        "infraestrutura": "QT_DOC_BAS",
+        "forca": 0.20775102824350866
+      },
+      {
+        "infraestrutura": "QT_MAT_PROF_TEC",
+        "forca": 0.20216767537637326
+      },
+      {
+        "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+        "forca": 0.15540376136185008
+      },
+      {
+        "infraestrutura": "QT_SALAS_UTILIZA_CLIMATIZADAS",
+        "forca": 0.13107577897077619
+      },
+      {
+        "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+        "forca": 0.1277196681868573
+      },
+      {
+        "infraestrutura": "IN_LABORATORIO_CIENCIAS",
+        "forca": 0.1232777353150442
+      },
+      {
+        "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+        "forca": 0.11610927516386
+      },
+      {
+        "infraestrutura": "IN_QUADRA_ESPORTES",
+        "forca": 0.10702477968007905
+      },
+      {
+        "infraestrutura": "IN_ALIMENTACAO",
+        "forca": 0.10067150997429412
+      },
+      {
+        "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+        "forca": 0.09762616436094099
+      }
+    ],
+    "Município": [
+      {
+        "infraestrutura": "QT_DOC_BAS",
+        "forca": 0.26294545332614705
+      },
+      {
+        "infraestrutura": "IN_ESGOTO_REDE_PUBLICA",
+        "forca": 0.24065037097153164
+      },
+      {
+        "infraestrutura": "IN_QUADRA_ESPORTES",
+        "forca": 0.17257814625467363
+      },
+      {
+        "infraestrutura": "QT_MAT_EJA",
+        "forca": 0.17246267048142758
+      },
+      {
+        "infraestrutura": "IN_ALIMENTACAO",
+        "forca": 0.16661533363015993
+      },
+      {
+        "infraestrutura": "IN_LABORATORIO_INFORMATICA",
+        "forca": 0.16153387119263676
+      },
+      {
+        "infraestrutura": "IN_EQUIP_LOUSA_DIGITAL",
+        "forca": 0.15860740698356973
+      },
+      {
+        "infraestrutura": "TP_AEE",
+        "forca": 0.15306236955069213
+      },
+      {
+        "infraestrutura": "IN_INTERNET_APRENDIZAGEM",
+        "forca": 0.14578872683429953
+      },
+      {
+        "infraestrutura": "QT_MAT_BAS",
+        "forca": 0.14490472466067295
+      }
+    ]
+  }
+}
