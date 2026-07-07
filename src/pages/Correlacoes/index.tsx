@@ -117,6 +117,91 @@ export default function Resultados() {
     return num.toFixed(3).replace('.', ',');
   };
 
+  function ComponenteTop10() {
+    const [showPopup, setShowPopup] = useState(false);
+
+    return (
+      <div className="relative">
+        <div className="bg-[#1c2541] rounded-xl p-6 border border-slate-700 shadow-md">
+
+          {/* Cabeçalho do Card com o botão de informação */}
+          <div className="flex items-center justify-between mb-4 border-b border-slate-700/50 pb-2">
+            <h4 className="text-xs font-bold uppercase tracking-wider text-amber-400">
+              🏆 Top 10 Força Média Geral: {granularidade}
+            </h4>
+            <button
+              onClick={() => setShowPopup(true)}
+              className="w-5 h-5 rounded-full bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold text-xs hover:bg-amber-400 hover:text-slate-900 transition-all duration-200 shadow-sm cursor-pointer"
+              title="Entenda o cálculo da força"
+            >
+              !
+            </button>
+          </div>
+
+          {/* Lista dos 10 atributos (Alterado de .slice(0, 5) para .slice(0, 10)) */}
+          <div className="space-y-2">
+            {top10Ativo.slice(0, 10).map((item, index) => {
+              const meta = labelsInfraestrutura[item.infraestrutura] || { nome: item.infraestrutura };
+              return (
+                <div
+                  key={item.infraestrutura}
+                  className="flex items-center justify-between p-2.5 rounded bg-slate-900/40 text-xs border border-slate-800 hover:border-slate-700 transition-colors duration-150"
+                >
+                  <span className="text-slate-300 truncate max-w-[75%] font-medium">
+                    {String(index + 1).padStart(2, '0')}. {meta.nome}
+                  </span>
+                  <span className="font-mono font-bold text-emerald-400 bg-emerald-500/10 px-2 py-0.5 rounded border border-emerald-500/20 shadow-sm">
+                    {item.forca.toFixed(4)}
+                  </span>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+
+        {/* POPUP MODAL (Explicando a Metodologia de SI / Engenharia de Dados) */}
+        {showPopup && (
+          <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm animate-fade-in">
+            <div className="bg-[#1c2541] border border-slate-700 rounded-xl p-6 max-w-lg w-full mx-4 shadow-2xl relative">
+
+              {/* Título do Modal */}
+              <div className="flex items-center space-x-2 text-amber-400 mb-3">
+                <span className="text-xl">📊</span>
+                <h5 className="font-bold text-base tracking-wide">Como a Força é calculada?</h5>
+              </div>
+
+              {/* Texto Científico Explicativo */}
+              <div className="text-slate-300 text-xs leading-relaxed space-y-3 font-light">
+                <p>
+                  A métrica de <span className="text-slate-100 font-semibold">"Força"</span> não é uma atribuição subjetiva. Ela representa o <strong>Módulo (Valor Absoluto) do Coeficiente de Correlação de Postos de Spearman </strong> calculado diretamente via script Python.
+                </p>
+                <p>
+                  O algoritmo analisa a relação monotônica entre os indicadores de infraestrutura do Censo Escolar e as notas padronizadas do ENEM. Optou-se por Spearman por sua robustez metodológica ao lidar com distribuições não lineares e mitigar o impacto de <em>outliers</em> nos microdados.
+                </p>
+                <p className="bg-[#111930] p-2.5 rounded border border-slate-800 font-mono text-[11px] text-cyan-400">
+                  Fórmula de Negócio: forca = abs(spearman_rho)
+                </p>
+                <p>
+                  O valor varia estritamente entre <span className="text-emerald-400 font-semibold">0 (independência total)</span> e <span className="text-emerald-400 font-semibold">1 (associação perfeita)</span>. Aplicamos o módulo para capturar tanto impactos positivos (reforço de nota) quanto impactos negativos severos (como a falta de acessibilidade), ordenando-os pela relevância absoluta de sua presença no ecossistema escolar.
+                </p>
+              </div>
+
+              {/* Botão de Fechar */}
+              <div className="mt-6 flex justify-end">
+                <button
+                  onClick={() => setShowPopup(false)}
+                  className="px-4 py-2 bg-slate-800 text-slate-200 rounded-lg text-xs font-semibold hover:bg-slate-700 hover:text-white border border-slate-700 transition-all duration-150 cursor-pointer shadow-md"
+                >
+                  Fechar
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
+      </div>
+    );
+  }
+
   return (
     <div className="space-y-6">
 
@@ -255,8 +340,8 @@ export default function Resultados() {
                           </td>
                           <td className="p-4 text-center">
                             <span className={`px-2.5 py-0.5 text-xs font-mono font-bold rounded border ${r < 0
-                                ? 'text-rose-400 bg-rose-500/10 border-rose-500/20'
-                                : 'text-emerald-400 bg-emerald-500/10 border-emerald-500/20'
+                              ? 'text-rose-400 bg-rose-500/10 border-rose-500/20'
+                              : 'text-emerald-400 bg-emerald-500/10 border-emerald-500/20'
                               }`}>
                               {r >= 0 ? `+${r.toFixed(4)}` : r.toFixed(4)}
                             </span>
@@ -280,7 +365,7 @@ export default function Resultados() {
         {/* LADO DIREITO: RANKING GERAL HISTÓRICO DO JSON */}
         <div className="space-y-6">
 
-          <div className="bg-[#1c2541] rounded-xl p-4 border border-slate-700 shadow-md">
+          {/* <div className="bg-[#1c2541] rounded-xl p-4 border border-slate-700 shadow-md">
             <h4 className="text-xs font-bold uppercase tracking-wider text-amber-400 mb-3">
               🏆 Top 5 Força Média Geral: {granularidade}
             </h4>
@@ -299,9 +384,11 @@ export default function Resultados() {
                 );
               })}
             </div>
-          </div>
+          </div> */}
 
-         {/*  <div className="bg-gradient-to-br from-slate-900 to-[#1c2541] rounded-xl p-5 border border-slate-800 space-y-3">
+          <ComponenteTop10 />
+
+          {/*  <div className="bg-gradient-to-br from-slate-900 to-[#1c2541] rounded-xl p-5 border border-slate-800 space-y-3">
             <h5 className="text-[11px] font-bold uppercase text-emerald-400 tracking-wider">
               🔬 Comportamento Científico Observado
             </h5>
