@@ -1,8 +1,8 @@
 import { useState } from 'react';
-import Metodologia from './pages/Metodologia/index.tsx';
-import Correlacoes from './pages/Correlacoes';
-import Heatmaps from './pages/Heatmaps/index.tsx';
-import Mapas from './pages/Mapas/index.tsx';
+import Metodologia from './pages/AnaliseCorrelacao/Metodologia/index.tsx';
+import Correlacoes from './pages/AnaliseCorrelacao/Correlacoes/index.tsx';
+import Heatmaps from './pages/AnaliseCorrelacao/Heatmaps/index.tsx';
+import Mapas from './pages/AnaliseCorrelacao/Mapas/index.tsx';
 
 // 1. Definição dos tipos de análises globais (Linhas de Pesquisa)
 type TipoAnalise = 'quali' | 'horizontal';
