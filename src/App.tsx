@@ -2,12 +2,13 @@ import { useState } from 'react';
 import Metodologia from './pages/Metodologia/index.tsx';
 import Correlacoes from './pages/Correlacoes';
 import Heatmaps from './pages/Heatmaps/index.tsx';
+import Mapas from './pages/Mapas/index.tsx';
 
 // 1. Definição dos tipos de análises globais (Linhas de Pesquisa)
 type TipoAnalise = 'quali' | 'horizontal';
 
 // 2. Definição das sub-abas internas
-type SubAba = 'metodologia' | 'correlações' | 'heatmaps';
+type SubAba = 'metodologia' | 'correlações' | 'heatmaps' | "mapas";
 
 interface EstruturaPagina {
   titulo: string;
@@ -103,7 +104,7 @@ export default function App() {
 
           {/* 3. SUB-NAVEGAÇÃO (Fica logo abaixo das informações do Header) */}
           <div className="flex space-x-1 mt-6 border-b border-slate-700/50 max-w-max">
-            {(['metodologia', 'correlações', 'Heatmaps'] as SubAba[]).map((subAba) => (
+            {(['metodologia', 'correlações', 'heatmaps', 'mapas'] as SubAba[]).map((subAba) => (
               <button
                 key={subAba}
                 onClick={() => setAbaAtiva(subAba)}
@@ -127,6 +128,7 @@ export default function App() {
             {abaAtiva === 'metodologia' && <Metodologia />}
             {abaAtiva === 'correlações' && <Correlacoes />}
             {abaAtiva === 'heatmaps' && <Heatmaps />}
+            {abaAtiva === 'mapas' && <Mapas />}
           </>
         ) : (
           /* Placeholder visual elegante para a aba Horizontal que está por vir */
