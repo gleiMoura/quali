@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import Metodologia from './pages/AnaliseCorrelacao/Metodologia/index.tsx';
 import MetodologiaHorizontal from './pages/AnaliseHorizontal/MetodologiaHorizontal/index.tsx';
+import VisualizacaoPainel from './pages/AnaliseHorizontal/VisualizacaoPainel/index.tsx';
 import Correlacoes from './pages/AnaliseCorrelacao/Correlacoes/index.tsx';
 import Heatmaps from './pages/AnaliseCorrelacao/Heatmaps/index.tsx';
 import Mapas from './pages/AnaliseCorrelacao/Mapas/index.tsx';
@@ -9,7 +10,7 @@ import Mapas from './pages/AnaliseCorrelacao/Mapas/index.tsx';
 type TipoAnalise = 'quali' | 'horizontal';
 
 // 2. Definição das sub-abas internas
-type SubAba = 'metodologia' | 'correlações' | 'heatmaps' | 'mapas';
+type SubAba = 'metodologia' | 'correlações' | 'heatmaps' | 'mapas' | 'visualizacao';
 
 interface EstruturaPagina {
   titulo: string;
@@ -32,15 +33,18 @@ const configAnalises: Record<TipoAnalise, EstruturaPagina> = {
 };
 
 // Mapeamento de rótulos dinâmicos para as sub-abas de acordo com o contexto estatístico
-const rotulosAbas: Record<TipoAnalise, Record<SubAba, string>> = {
+// IMPORTANTE: Tipamos as chaves como SubAba parcial para permitir omitir/esconder abas
+const rotulosAbas: Record<TipoAnalise, Partial<Record<SubAba, string>>> = {
   quali: {
     metodologia: 'Metodologia',
     'correlações': 'Correlações',
     heatmaps: 'Heatmaps',
     mapas: 'Mapas'
+    // 'visualizacao' foi removido propositalmente para não aparecer na aba Quali
   },
   horizontal: {
     metodologia: 'Metodologia Longitudinal',
+    visualizacao: 'Visualização do Painel',
     'correlações': 'Evolução Temporal',
     heatmaps: 'Modelagem de Painel',
     mapas: 'Métricas e Ajustes'
@@ -85,7 +89,7 @@ export default function App() {
                   : 'border-transparent text-slate-400 hover:text-slate-200 hover:bg-[#1e2746]'
               }`}
             >
-              Pesquisa Quali (Correlações)
+              Pesquisa Correlações
             </button>
 
             <button
@@ -126,17 +130,20 @@ export default function App() {
 
           {/* 3. SUB-NAVEGAÇÃO (Dinâmica por contexto de análise) */}
           <div className="flex space-x-1 mt-6 border-b border-slate-700/50 max-w-max">
-            {(['metodologia', 'correlações', 'heatmaps', 'mapas'] as SubAba[]).map((subAba) => (
+            {/* CORREÇÃO: Em vez de iterar sobre um array fixo, iteramos sobre as chaves 
+                configuradas especificamente para a 'analiseAtiva' atual no objeto 'rotulosAbas'.
+            */}
+            {Object.entries(rotulosAbas[analiseAtiva]).map(([subAba, rotulo]) => (
               <button
                 key={subAba}
-                onClick={() => setAbaAtiva(subAba)}
+                onClick={() => setAbaAtiva(subAba as SubAba)}
                 className={`px-5 py-2 text-xs font-semibold uppercase tracking-wider rounded-t-lg transition-all duration-150 relative -mb-[1px] ${
                   abaAtiva === subAba
                     ? 'bg-[#1c2541] text-emerald-400 border-t-2 border-x border-slate-700 border-t-emerald-400'
                     : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800/40'
                 }`}
               >
-                {rotulosAbas[analiseAtiva][subAba]}
+                {rotulo}
               </button>
             ))}
           </div>
@@ -155,6 +162,7 @@ export default function App() {
         ) : (
           <>
             {abaAtiva === 'metodologia' && <MetodologiaHorizontal />}
+            {abaAtiva === 'visualizacao' && <VisualizacaoPainel />}
             {abaAtiva === 'correlações' && <EvolucaoTemporalPlaceholder />}
             {abaAtiva === 'heatmaps' && <ModelagemPainelPlaceholder />}
             {abaAtiva === 'mapas' && <MetricasAjustesPlaceholder />}
@@ -169,10 +177,6 @@ export default function App() {
     </div>
   );
 }
-
-/* ==========================================================================
-   COMPONENTES PLACEHOLDERS ESTRUTURADOS (Substitua pelos seus arquivos finais)
-   ========================================================================== */
 
 function EvolucaoTemporalPlaceholder() {
   return (
